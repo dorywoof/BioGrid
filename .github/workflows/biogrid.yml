@@ -1,0 +1,136 @@
+name: BioGrid
+
+on:
+  push:
+  pull_request:
+  workflow_dispatch:
+    inputs:
+      release_tag:
+        description: Version tag to publish as a release, e.g. v1.0.0
+        required: false
+        default: ""
+
+env:
+  SHIU_COMMIT: 91bdd1e7dcf193f3e7ca5a8933497fcef63b7960
+  ANNOTATIONS_COMMIT: a83b2776d60d5764cef36b927f5f9679c16c47a2
+
+jobs:
+  brain:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      - id: cache
+        uses: actions/cache@v4
+        with:
+          path: biogrid/data/brain.bin
+          key: brain-${{ env.SHIU_COMMIT }}-${{ env.ANNOTATIONS_COMMIT }}-${{ hashFiles('research/model.py', 'research/export_brain.py') }}
+
+      - uses: actions/setup-python@v5
+        if: steps.cache.outputs.cache-hit != 'true'
+        with:
+          python-version: "3.12"
+
+      - name: Export the FlyWire whole brain
+        if: steps.cache.outputs.cache-hit != 'true'
+        run: |
+          fetch() {
+            mkdir -p "$1" && cd "$1"
+            git init -q && git remote add origin "$2"
+            git fetch -q --depth 1 origin "$3" && git checkout -q FETCH_HEAD
+            cd - > /dev/null
+          }
+          fetch ../shiu https://github.com/philshiu/Drosophila_brain_model "$SHIU_COMMIT"
+          fetch ../annotations https://github.com/flyconnectome/flywire_annotations "$ANNOTATIONS_COMMIT"
+          pip install -r research/requirements.txt
+          python research/export_brain.py --shiu ../shiu \
+            --annotations ../annotations/supplemental_files/Supplemental_file1_neuron_annotations.tsv
+
+      - uses: actions/upload-artifact@v4
+        with:
+          name: brain
+          path: biogrid/data/brain.bin
+          retention-days: 7
+
+  build:
+    needs: brain
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/download-artifact@v4
+        with:
+          name: brain
+          path: biogrid/data
+
+      - name: Install SFML
+        run: |
+          sudo apt-get update
+          sudo apt-get install -y --no-install-recommends libsfml-dev
+
+      - name: Configure
+        run: cmake -S biogrid -B build -DCMAKE_BUILD_TYPE=Release
+
+      - name: Build
+        run: cmake --build build --parallel
+
+      - name: Foraging test
+        run: ctest --test-dir build --output-on-failure
+
+  windows:
+    needs: brain
+    runs-on: windows-latest
+    permissions:
+      contents: write
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/download-artifact@v4
+        with:
+          name: brain
+          path: biogrid/data
+
+      - name: Configure
+        run: cmake -S biogrid -B build -A x64
+
+      - name: Build
+        run: cmake --build build --config Release --parallel
+
+      - name: Foraging test
+        run: ctest --test-dir build -C Release --output-on-failure
+
+      - name: Package
+        shell: pwsh
+        run: |
+          New-Item -ItemType Directory -Force dist/BioGrid/assets, dist/BioGrid/data | Out-Null
+          Copy-Item build/Release/biogrid.exe dist/BioGrid/BioGrid.exe
+          Copy-Item biogrid/assets/DejaVuSansMono.ttf, biogrid/assets/DejaVuSansMono-LICENSE.txt, biogrid/assets/fly_body.png, biogrid/assets/fly_wing.png dist/BioGrid/assets/
+          Copy-Item biogrid/data/brain.bin dist/BioGrid/data/
+          Copy-Item LICENSE dist/BioGrid/
+
+      - uses: actions/upload-artifact@v4
+        with:
+          name: BioGrid-windows
+          path: dist/
+
+      - name: Zip for release
+        if: startsWith(github.ref, 'refs/tags/v') || inputs.release_tag != ''
+        shell: pwsh
+        run: Compress-Archive -Path dist/BioGrid -DestinationPath BioGrid-windows.zip
+
+      - name: Publish release
+        if: startsWith(github.ref, 'refs/tags/v') || inputs.release_tag != ''
+        uses: softprops/action-gh-release@v2
+        with:
+          tag_name: ${{ inputs.release_tag || github.ref_name }}
+          name: BioGrid ${{ inputs.release_tag || github.ref_name }}
+          target_commitish: ${{ github.sha }}
+          files: BioGrid-windows.zip
+          body: |
+            Windows build of BioGrid. The fly is flown by a spiking model of the complete FlyWire brain (138,639 neurons). No install needed.
+
+            1. Download `BioGrid-windows.zip` below and extract it.
+            2. Open the `BioGrid` folder and double-click `BioGrid.exe`.
+            3. If SmartScreen warns about an unrecognized app, choose **More info → Run anyway**.
+
+            WASD flies the fly, Space hands control to the whole brain, 1/2/3/4 silence the VP relay, DNb05, VP5 or VP3a neurons, 0 restores, R resets, Esc quits.
