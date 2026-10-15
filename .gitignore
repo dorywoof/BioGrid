@@ -1,0 +1,12 @@
+build/
+cmake-build-*/
+out/
+.vs/
+.vscode/
+.idea/
+*.exe
+*.o
+*.obj
+__pycache__/
+*.py[cod]
+biogrid/data/brain.bin

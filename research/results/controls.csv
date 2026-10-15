@@ -1,0 +1,9 @@
+model,condition,MN9_hz,giant_fiber_hz,active_neurons
+Shiu et al. 2024,no input,0.0,0.0,0
+Shiu et al. 2024,sugar,42.0,0.0,313
+Shiu et al. 2024,sugar + bitter,0.0,0.0,243
+Shiu et al. 2024,looming (LC4 + LPLC2),0.0,158.0,851
+corrected,no input,0.0,0.0,0
+corrected,sugar,54.0,0.0,301
+corrected,sugar + bitter,24.0,0.0,334
+corrected,looming (LC4 + LPLC2),0.0,139.0,807

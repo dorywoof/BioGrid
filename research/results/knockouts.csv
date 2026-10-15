@@ -1,0 +1,1097 @@
+kind,sense,stimulated,muted,dnb05_left_hz,dnb05_right_hz,cell_type
+intact,humidity (VP5),left,,85.0,0.0,
+intact,humidity (VP5),right,,0.0,72.5,
+intact,cooling (VP3a),left,,90.0,0.0,
+intact,cooling (VP3a),right,,0.0,52.5,
+intact,heating (VP2),left,,77.5,0.0,
+intact,heating (VP2),right,,0.0,57.5,
+single,humidity (VP5),left,635,65.0,0.0,"VP5+_l2PN,VP5+VP2_l2PN"
+single,humidity (VP5),left,1205,87.5,0.0,LHAV3o1
+single,humidity (VP5),left,1233,85.0,0.0,LHAV2d1
+single,humidity (VP5),left,1246,85.0,0.0,CB1309
+single,humidity (VP5),left,1684,85.0,0.0,LHPV2f2
+single,humidity (VP5),left,3405,85.0,0.0,LHAV3o1
+single,humidity (VP5),left,3658,85.0,0.0,PLP073
+single,humidity (VP5),left,3826,82.5,0.0,M_l2PNl20
+single,humidity (VP5),left,6832,85.0,0.0,SLP381
+single,humidity (VP5),left,7941,85.0,0.0,M_l2PN10t19b
+single,humidity (VP5),left,8014,85.0,0.0,SLP305
+single,humidity (VP5),left,8334,85.0,0.0,l2LN22
+single,humidity (VP5),left,9628,85.0,0.0,SLP072
+single,humidity (VP5),left,10891,85.0,0.0,CB1510
+single,humidity (VP5),left,11164,85.0,0.0,lLN2T_b
+single,humidity (VP5),left,12120,80.0,0.0,LHPV6o1
+single,humidity (VP5),left,12437,85.0,0.0,CB3674
+single,humidity (VP5),left,12572,85.0,0.0,l2LN22
+single,humidity (VP5),left,12623,85.0,0.0,LHPV8a1
+single,humidity (VP5),left,14082,85.0,0.0,CL317
+single,humidity (VP5),left,14158,85.0,0.0,lLN2P_c
+single,humidity (VP5),left,15754,85.0,0.0,WED182
+single,humidity (VP5),left,15799,85.0,0.0,LHAD2d1
+single,humidity (VP5),left,15977,85.0,0.0,PLP221
+single,humidity (VP5),left,16659,85.0,0.0,VP3+VP1l_ivPN
+single,humidity (VP5),left,17311,85.0,0.0,CB2810
+single,humidity (VP5),left,17598,85.0,0.0,CB1160
+single,humidity (VP5),left,18457,85.0,0.0,CL092
+single,humidity (VP5),left,18721,65.0,0.0,VP5+VP3_l2PN
+single,humidity (VP5),left,19166,85.0,0.0,CB1457
+single,humidity (VP5),left,19217,77.5,0.0,"VP5+_l2PN,VP5+VP2_l2PN"
+single,humidity (VP5),left,19600,82.5,0.0,LHPV7a2
+single,humidity (VP5),left,19628,85.0,0.0,PLP073
+single,humidity (VP5),left,19945,82.5,0.0,v2LN38
+single,humidity (VP5),left,20208,85.0,0.0,ATL014
+single,humidity (VP5),left,21139,85.0,0.0,LHAV3e3a
+single,humidity (VP5),left,22100,85.0,0.0,LHAV3o1
+single,humidity (VP5),left,22266,80.0,0.0,LHPV1c2
+single,humidity (VP5),left,22292,85.0,0.0,cL19
+single,humidity (VP5),left,23186,87.5,0.0,LHAV3o1
+single,humidity (VP5),left,23615,85.0,0.0,SLP314
+single,humidity (VP5),left,23720,85.0,0.0,PPL204
+single,humidity (VP5),left,23842,80.0,0.0,LHPV1c2
+single,humidity (VP5),left,23844,85.0,0.0,LHPV3c1
+single,humidity (VP5),left,24753,87.5,0.0,CL200
+single,humidity (VP5),left,25529,85.0,0.0,LHAV7a7
+single,humidity (VP5),left,25945,87.5,0.0,SMPp&v1A_P03
+single,humidity (VP5),left,26371,85.0,0.0,lLN2T_b
+single,humidity (VP5),left,26973,85.0,0.0,M_l2PN10t19b
+single,humidity (VP5),left,27079,85.0,0.0,CB3717
+single,humidity (VP5),left,27509,85.0,0.0,SLP365
+single,humidity (VP5),left,28155,85.0,0.0,ATL023
+single,humidity (VP5),left,28297,85.0,0.0,WED121
+single,humidity (VP5),left,28718,80.0,0.0,v2LN38
+single,humidity (VP5),left,28959,85.0,0.0,PLP155
+single,humidity (VP5),left,29232,85.0,0.0,LHPV4l1
+single,humidity (VP5),left,29999,87.5,0.0,lLN2P_c
+single,humidity (VP5),left,30291,85.0,0.0,CB1976
+single,humidity (VP5),left,30808,85.0,0.0,VP3+_l2PN
+single,humidity (VP5),left,31007,85.0,0.0,LHPV6h2
+single,humidity (VP5),left,31319,82.5,0.0,M_l2PN3t18
+single,humidity (VP5),left,33741,85.0,0.0,PPL203
+single,humidity (VP5),left,34140,85.0,0.0,VP3+_l2PN
+single,humidity (VP5),left,34167,82.5,0.0,CL362
+single,humidity (VP5),left,35791,85.0,0.0,LHPV6a10
+single,humidity (VP5),left,35981,80.0,0.0,WEDPN9
+single,humidity (VP5),left,36669,85.0,0.0,SLP314
+single,humidity (VP5),left,36949,82.5,0.0,PVLP076
+single,humidity (VP5),left,38441,85.0,0.0,LHAV3o1
+single,humidity (VP5),left,38927,85.0,0.0,PLP067b
+single,humidity (VP5),left,39227,85.0,0.0,LHAV4g17
+single,humidity (VP5),left,39397,85.0,0.0,SLP314
+single,humidity (VP5),left,39398,85.0,0.0,LHPV2a1_a
+single,humidity (VP5),left,39921,85.0,0.0,LAL144a
+single,humidity (VP5),left,40881,80.0,0.0,VP2_adPN
+single,humidity (VP5),left,40962,85.0,0.0,PLP130
+single,humidity (VP5),left,40991,85.0,0.0,SLP384
+single,humidity (VP5),left,41630,85.0,0.0,SLP314
+single,humidity (VP5),left,41693,85.0,0.0,LHCENT4
+single,humidity (VP5),left,42029,85.0,0.0,LHAD2d1
+single,humidity (VP5),left,42035,85.0,0.0,PLP104
+single,humidity (VP5),left,42584,85.0,0.0,LHPV7a2
+single,humidity (VP5),left,43048,85.0,0.0,LAL144a
+single,humidity (VP5),left,43496,85.0,0.0,VP5+Z_adPN
+single,humidity (VP5),left,44064,82.5,0.0,SLP456
+single,humidity (VP5),left,44553,85.0,0.0,LHPV10c1
+single,humidity (VP5),left,44912,82.5,0.0,v2LN38
+single,humidity (VP5),left,45131,85.0,0.0,CL317
+single,humidity (VP5),left,45715,87.5,0.0,CB1846
+single,humidity (VP5),left,46088,85.0,0.0,LHPV6a10
+single,humidity (VP5),left,46235,85.0,0.0,SIP022
+single,humidity (VP5),left,46331,70.0,0.0,"VP5+_l2PN,VP5+VP2_l2PN"
+single,humidity (VP5),left,46944,85.0,0.0,CB1457
+single,humidity (VP5),left,47046,85.0,0.0,CB3691
+single,humidity (VP5),left,47133,85.0,0.0,CL246
+single,humidity (VP5),left,47685,85.0,0.0,l2LN20
+single,humidity (VP5),left,48572,85.0,0.0,PLP067b
+single,humidity (VP5),left,48835,82.5,0.0,LHPV2a1_a
+single,humidity (VP5),left,48912,85.0,0.0,SLP456
+single,humidity (VP5),left,49007,90.0,0.0,lLN2X04
+single,humidity (VP5),left,51024,85.0,0.0,LHPV6h2
+single,humidity (VP5),left,51099,80.0,0.0,VP1m+VP5_ilPN
+single,humidity (VP5),left,51155,85.0,0.0,M_lv2PN9t49a
+single,humidity (VP5),left,51517,85.0,0.0,l2LN20
+single,humidity (VP5),left,52068,85.0,0.0,LHAV6g1
+single,humidity (VP5),left,52420,85.0,0.0,CB1056
+single,humidity (VP5),left,53582,85.0,0.0,CL001
+single,humidity (VP5),left,55361,85.0,0.0,LHPV2a1_d
+single,humidity (VP5),left,56698,87.5,0.0,PLP155
+single,humidity (VP5),left,56777,85.0,0.0,CB1160
+single,humidity (VP5),left,58415,87.5,0.0,PLP065a
+single,humidity (VP5),left,59988,85.0,0.0,CB1457
+single,humidity (VP5),left,60672,85.0,0.0,CB3691
+single,humidity (VP5),left,60863,85.0,0.0,CB0527
+single,humidity (VP5),left,61297,82.5,0.0,LHPV2a1_d
+single,humidity (VP5),left,62790,85.0,0.0,LHPV6p1
+single,humidity (VP5),left,62956,85.0,0.0,VES079
+single,humidity (VP5),left,63035,80.0,0.0,M_adPNm3
+single,humidity (VP5),left,63058,85.0,0.0,CB3114
+single,humidity (VP5),left,63873,85.0,0.0,LHAD4a1
+single,humidity (VP5),left,66179,85.0,0.0,CL286
+single,humidity (VP5),left,66210,85.0,0.0,CB1056
+single,humidity (VP5),left,66466,85.0,0.0,SIP087
+single,humidity (VP5),left,67448,85.0,0.0,PLP073
+single,humidity (VP5),left,67620,87.5,0.0,LHPV6h2
+single,humidity (VP5),left,67725,85.0,0.0,SLP056
+single,humidity (VP5),left,68021,80.0,0.0,VP1m+VP5_ilPN
+single,humidity (VP5),left,68400,82.5,0.0,WED125
+single,humidity (VP5),left,68788,85.0,0.0,LHCENT4
+single,humidity (VP5),left,69035,85.0,0.0,CL063
+single,humidity (VP5),left,69523,85.0,0.0,cL19
+single,humidity (VP5),left,69538,85.0,0.0,CB2005
+single,humidity (VP5),left,70068,85.0,0.0,SIP081
+single,humidity (VP5),left,70420,82.5,0.0,LHPV6o1
+single,humidity (VP5),left,71754,85.0,0.0,SLP377
+single,humidity (VP5),left,73158,85.0,0.0,ATL011
+single,humidity (VP5),left,76889,85.0,0.0,ATL023
+single,humidity (VP5),left,77396,85.0,0.0,lLN2P_c
+single,humidity (VP5),left,78267,85.0,0.0,SMPp&v1A_P03
+single,humidity (VP5),left,78964,85.0,0.0,LHPV2f2
+single,humidity (VP5),left,80272,82.5,0.0,CB0010
+single,humidity (VP5),left,80979,82.5,0.0,LHPV7a2
+single,humidity (VP5),left,81005,85.0,0.0,SIP081
+single,humidity (VP5),left,81429,85.0,0.0,WED121
+single,humidity (VP5),left,81492,85.0,0.0,VES079
+single,humidity (VP5),left,82091,85.0,0.0,ATL014
+single,humidity (VP5),left,83271,85.0,0.0,SLP457
+single,humidity (VP5),left,83777,85.0,0.0,LHPV6l2
+single,humidity (VP5),left,83834,85.0,0.0,LHAV6g1
+single,humidity (VP5),left,83934,85.0,0.0,LHPV6c1
+single,humidity (VP5),left,85227,85.0,0.0,lLN2X04
+single,humidity (VP5),left,85439,85.0,0.0,CB2810
+single,humidity (VP5),left,86007,85.0,0.0,M_l2PN3t18
+single,humidity (VP5),left,86688,85.0,0.0,LHPV2f2
+single,humidity (VP5),left,86882,85.0,0.0,LHPV10b1
+single,humidity (VP5),left,87642,85.0,0.0,VP1l+VP3_ilPN
+single,humidity (VP5),left,87651,85.0,0.0,SLP457
+single,humidity (VP5),left,88224,85.0,0.0,CB0196
+single,humidity (VP5),left,88511,85.0,0.0,CL133
+single,humidity (VP5),left,88522,85.0,0.0,LHAV3q1
+single,humidity (VP5),left,89074,85.0,0.0,CB0196
+single,humidity (VP5),left,89212,85.0,0.0,LHAV2d1
+single,humidity (VP5),left,89673,85.0,0.0,CRE011
+single,humidity (VP5),left,89967,85.0,0.0,M_spPN4t9
+single,humidity (VP5),left,91277,85.0,0.0,LHPV6c1
+single,humidity (VP5),left,91304,85.0,0.0,SLP457
+single,humidity (VP5),left,92516,87.5,0.0,SMP441
+single,humidity (VP5),left,93222,85.0,0.0,LAL112
+single,humidity (VP5),left,93320,85.0,0.0,LAL112
+single,humidity (VP5),left,93555,85.0,0.0,SLP314
+single,humidity (VP5),left,93701,85.0,0.0,CB0633
+single,humidity (VP5),left,94122,85.0,0.0,LHAV7a6
+single,humidity (VP5),left,94379,85.0,0.0,CB3013
+single,humidity (VP5),left,94741,85.0,0.0,SLP382
+single,humidity (VP5),left,94794,85.0,0.0,PLP067b
+single,humidity (VP5),left,95347,87.5,0.0,SLP314
+single,humidity (VP5),left,96018,85.0,0.0,CL021
+single,humidity (VP5),left,96176,85.0,0.0,SLP072
+single,humidity (VP5),left,96194,85.0,0.0,PLP130
+single,humidity (VP5),left,96457,85.0,0.0,SLP080
+single,humidity (VP5),left,97826,85.0,0.0,VP3+_l2PN
+single,humidity (VP5),left,98857,85.0,0.0,LHPV6k2
+single,humidity (VP5),left,98974,85.0,0.0,PLP155
+single,humidity (VP5),left,99364,85.0,0.0,WED182
+single,humidity (VP5),left,100622,82.5,0.0,LHAD4a1
+single,humidity (VP5),left,101217,85.0,0.0,CB1982
+single,humidity (VP5),left,101220,85.0,0.0,PPL204
+single,humidity (VP5),left,101221,85.0,0.0,LHPV3c1
+single,humidity (VP5),left,101223,85.0,0.0,LHPV6k1
+single,humidity (VP5),left,101345,87.5,0.0,LHAV7a6
+single,humidity (VP5),left,102249,82.5,0.0,LHAV3o1
+single,humidity (VP5),left,102574,85.0,0.0,SLP313
+single,humidity (VP5),left,102676,85.0,0.0,CL362
+single,humidity (VP5),left,103176,85.0,0.0,l2LN21
+single,humidity (VP5),left,103178,85.0,0.0,SLP236
+single,humidity (VP5),left,104123,85.0,0.0,LHPV2a1_d
+single,humidity (VP5),left,104649,85.0,0.0,ATL012
+single,humidity (VP5),left,105420,85.0,0.0,SLP314
+single,humidity (VP5),left,106029,85.0,0.0,SLP382
+single,humidity (VP5),left,106956,85.0,0.0,LHPV2f2
+single,humidity (VP5),left,107771,85.0,0.0,CB0633
+single,humidity (VP5),left,108631,85.0,0.0,CL001
+single,humidity (VP5),left,110077,82.5,0.0,lLN2F_b
+single,humidity (VP5),left,111124,85.0,0.0,VP3+_l2PN
+single,humidity (VP5),left,112815,85.0,0.0,AOTU019
+single,humidity (VP5),left,113029,85.0,0.0,SLP314
+single,humidity (VP5),left,113215,85.0,0.0,SMP495a
+single,humidity (VP5),left,113711,85.0,0.0,v2LN38
+single,humidity (VP5),left,114073,82.5,0.0,LHPV2a1_a
+single,humidity (VP5),left,114884,85.0,0.0,CB0349
+single,humidity (VP5),left,115279,85.0,0.0,SLP118
+single,humidity (VP5),left,115869,82.5,0.0,LHPV2a1_d
+single,humidity (VP5),left,115974,85.0,0.0,CRE009
+single,humidity (VP5),left,116422,85.0,0.0,CL126
+single,humidity (VP5),left,116906,85.0,0.0,PLP065a
+single,humidity (VP5),left,117059,85.0,0.0,SLP313
+single,humidity (VP5),left,117660,85.0,0.0,LHAV2k8
+single,humidity (VP5),left,118504,85.0,0.0,LHPV5g1_b
+single,humidity (VP5),left,118544,85.0,0.0,LHPV5g1_b
+single,humidity (VP5),left,119121,85.0,0.0,PLP197
+single,humidity (VP5),left,120041,82.5,0.0,LHAV3f1
+single,humidity (VP5),left,120112,85.0,0.0,ATL012
+single,humidity (VP5),left,120609,85.0,0.0,OA-VPM4
+single,humidity (VP5),left,121649,85.0,0.0,LHPV2f2
+single,humidity (VP5),left,123232,85.0,0.0,PLP251
+single,humidity (VP5),left,124499,85.0,0.0,MZ_lv2PN
+single,humidity (VP5),left,125189,82.5,0.0,LHPV7a2
+single,humidity (VP5),left,126399,85.0,0.0,SLP206
+single,humidity (VP5),left,126419,85.0,0.0,SLP384
+single,humidity (VP5),left,126426,82.5,0.0,LHPV2a1_d
+single,humidity (VP5),left,126578,85.0,0.0,LHPV4l1
+single,humidity (VP5),left,126585,82.5,0.0,LHPV2a1_d
+single,humidity (VP5),left,130549,87.5,0.0,CB1056
+single,humidity (VP5),left,131099,85.0,0.0,SLP080
+single,humidity (VP5),left,132094,85.0,0.0,LAL112
+single,humidity (VP5),left,132396,85.0,0.0,LAL112
+single,humidity (VP5),left,133338,85.0,0.0,LHPV2a1_a
+single,humidity (VP5),left,133589,85.0,0.0,LHAV3e3a
+single,humidity (VP5),left,134041,77.5,0.0,ALON1
+single,humidity (VP5),left,135102,85.0,0.0,cL05
+single,humidity (VP5),left,135472,85.0,0.0,PPL203
+single,humidity (VP5),left,137117,85.0,0.0,LHAV2p1
+single,cooling (VP3a),left,635,90.0,0.0,"VP5+_l2PN,VP5+VP2_l2PN"
+single,cooling (VP3a),left,1205,90.0,0.0,LHAV3o1
+single,cooling (VP3a),left,1233,90.0,0.0,LHAV2d1
+single,cooling (VP3a),left,1246,90.0,0.0,CB1309
+single,cooling (VP3a),left,1684,92.5,0.0,LHPV2f2
+single,cooling (VP3a),left,3405,90.0,0.0,LHAV3o1
+single,cooling (VP3a),left,3658,90.0,0.0,PLP073
+single,cooling (VP3a),left,3826,90.0,0.0,M_l2PNl20
+single,cooling (VP3a),left,6832,90.0,0.0,SLP381
+single,cooling (VP3a),left,7941,92.5,0.0,M_l2PN10t19b
+single,cooling (VP3a),left,8014,90.0,0.0,SLP305
+single,cooling (VP3a),left,8334,97.5,0.0,l2LN22
+single,cooling (VP3a),left,9628,90.0,0.0,SLP072
+single,cooling (VP3a),left,10891,90.0,0.0,CB1510
+single,cooling (VP3a),left,11164,92.5,0.0,lLN2T_b
+single,cooling (VP3a),left,12120,90.0,0.0,LHPV6o1
+single,cooling (VP3a),left,12437,90.0,0.0,CB3674
+single,cooling (VP3a),left,12572,95.0,0.0,l2LN22
+single,cooling (VP3a),left,12623,90.0,0.0,LHPV8a1
+single,cooling (VP3a),left,14082,90.0,0.0,CL317
+single,cooling (VP3a),left,14158,95.0,0.0,lLN2P_c
+single,cooling (VP3a),left,15754,90.0,0.0,WED182
+single,cooling (VP3a),left,15799,90.0,0.0,LHAD2d1
+single,cooling (VP3a),left,15977,90.0,0.0,PLP221
+single,cooling (VP3a),left,16659,92.5,0.0,VP3+VP1l_ivPN
+single,cooling (VP3a),left,17311,90.0,0.0,CB2810
+single,cooling (VP3a),left,17598,90.0,0.0,CB1160
+single,cooling (VP3a),left,18457,90.0,0.0,CL092
+single,cooling (VP3a),left,18721,52.5,0.0,VP5+VP3_l2PN
+single,cooling (VP3a),left,19166,90.0,0.0,CB1457
+single,cooling (VP3a),left,19217,90.0,0.0,"VP5+_l2PN,VP5+VP2_l2PN"
+single,cooling (VP3a),left,19600,90.0,0.0,LHPV7a2
+single,cooling (VP3a),left,19628,90.0,0.0,PLP073
+single,cooling (VP3a),left,19945,90.0,0.0,v2LN38
+single,cooling (VP3a),left,20208,90.0,0.0,ATL014
+single,cooling (VP3a),left,21139,90.0,0.0,LHAV3e3a
+single,cooling (VP3a),left,22100,90.0,0.0,LHAV3o1
+single,cooling (VP3a),left,22266,90.0,0.0,LHPV1c2
+single,cooling (VP3a),left,22292,90.0,0.0,cL19
+single,cooling (VP3a),left,23186,90.0,0.0,LHAV3o1
+single,cooling (VP3a),left,23615,90.0,0.0,SLP314
+single,cooling (VP3a),left,23720,90.0,0.0,PPL204
+single,cooling (VP3a),left,23842,90.0,0.0,LHPV1c2
+single,cooling (VP3a),left,23844,90.0,0.0,LHPV3c1
+single,cooling (VP3a),left,24753,90.0,0.0,CL200
+single,cooling (VP3a),left,25529,90.0,0.0,LHAV7a7
+single,cooling (VP3a),left,25945,90.0,0.0,SMPp&v1A_P03
+single,cooling (VP3a),left,26371,90.0,0.0,lLN2T_b
+single,cooling (VP3a),left,26973,92.5,0.0,M_l2PN10t19b
+single,cooling (VP3a),left,27079,90.0,0.0,CB3717
+single,cooling (VP3a),left,27509,90.0,0.0,SLP365
+single,cooling (VP3a),left,28155,90.0,0.0,ATL023
+single,cooling (VP3a),left,28297,90.0,0.0,WED121
+single,cooling (VP3a),left,28718,90.0,0.0,v2LN38
+single,cooling (VP3a),left,28959,90.0,0.0,PLP155
+single,cooling (VP3a),left,29232,90.0,0.0,LHPV4l1
+single,cooling (VP3a),left,29999,92.5,0.0,lLN2P_c
+single,cooling (VP3a),left,30291,90.0,0.0,CB1976
+single,cooling (VP3a),left,30808,87.5,0.0,VP3+_l2PN
+single,cooling (VP3a),left,31007,90.0,0.0,LHPV6h2
+single,cooling (VP3a),left,31319,90.0,0.0,M_l2PN3t18
+single,cooling (VP3a),left,33741,90.0,0.0,PPL203
+single,cooling (VP3a),left,34140,90.0,0.0,VP3+_l2PN
+single,cooling (VP3a),left,34167,90.0,0.0,CL362
+single,cooling (VP3a),left,35791,90.0,0.0,LHPV6a10
+single,cooling (VP3a),left,35981,90.0,0.0,WEDPN9
+single,cooling (VP3a),left,36669,90.0,0.0,SLP314
+single,cooling (VP3a),left,36949,90.0,0.0,PVLP076
+single,cooling (VP3a),left,38441,90.0,0.0,LHAV3o1
+single,cooling (VP3a),left,38927,90.0,0.0,PLP067b
+single,cooling (VP3a),left,39227,90.0,0.0,LHAV4g17
+single,cooling (VP3a),left,39397,90.0,0.0,SLP314
+single,cooling (VP3a),left,39398,90.0,0.0,LHPV2a1_a
+single,cooling (VP3a),left,39921,90.0,0.0,LAL144a
+single,cooling (VP3a),left,40881,90.0,0.0,VP2_adPN
+single,cooling (VP3a),left,40962,90.0,0.0,PLP130
+single,cooling (VP3a),left,40991,90.0,0.0,SLP384
+single,cooling (VP3a),left,41630,90.0,0.0,SLP314
+single,cooling (VP3a),left,41693,90.0,0.0,LHCENT4
+single,cooling (VP3a),left,42029,90.0,0.0,LHAD2d1
+single,cooling (VP3a),left,42035,90.0,0.0,PLP104
+single,cooling (VP3a),left,42584,90.0,0.0,LHPV7a2
+single,cooling (VP3a),left,43048,90.0,0.0,LAL144a
+single,cooling (VP3a),left,43496,90.0,0.0,VP5+Z_adPN
+single,cooling (VP3a),left,44064,90.0,0.0,SLP456
+single,cooling (VP3a),left,44553,90.0,0.0,LHPV10c1
+single,cooling (VP3a),left,44912,90.0,0.0,v2LN38
+single,cooling (VP3a),left,45131,90.0,0.0,CL317
+single,cooling (VP3a),left,45715,90.0,0.0,CB1846
+single,cooling (VP3a),left,46088,90.0,0.0,LHPV6a10
+single,cooling (VP3a),left,46235,90.0,0.0,SIP022
+single,cooling (VP3a),left,46331,90.0,0.0,"VP5+_l2PN,VP5+VP2_l2PN"
+single,cooling (VP3a),left,46944,90.0,0.0,CB1457
+single,cooling (VP3a),left,47046,90.0,0.0,CB3691
+single,cooling (VP3a),left,47133,90.0,0.0,CL246
+single,cooling (VP3a),left,47685,90.0,0.0,l2LN20
+single,cooling (VP3a),left,48572,90.0,0.0,PLP067b
+single,cooling (VP3a),left,48835,90.0,0.0,LHPV2a1_a
+single,cooling (VP3a),left,48912,90.0,0.0,SLP456
+single,cooling (VP3a),left,49007,92.5,0.0,lLN2X04
+single,cooling (VP3a),left,51024,90.0,0.0,LHPV6h2
+single,cooling (VP3a),left,51099,90.0,0.0,VP1m+VP5_ilPN
+single,cooling (VP3a),left,51155,90.0,0.0,M_lv2PN9t49a
+single,cooling (VP3a),left,51517,92.5,0.0,l2LN20
+single,cooling (VP3a),left,52068,90.0,0.0,LHAV6g1
+single,cooling (VP3a),left,52420,90.0,0.0,CB1056
+single,cooling (VP3a),left,53582,90.0,0.0,CL001
+single,cooling (VP3a),left,55361,90.0,0.0,LHPV2a1_d
+single,cooling (VP3a),left,56698,90.0,0.0,PLP155
+single,cooling (VP3a),left,56777,90.0,0.0,CB1160
+single,cooling (VP3a),left,58415,90.0,0.0,PLP065a
+single,cooling (VP3a),left,59988,90.0,0.0,CB1457
+single,cooling (VP3a),left,60672,90.0,0.0,CB3691
+single,cooling (VP3a),left,60863,90.0,0.0,CB0527
+single,cooling (VP3a),left,61297,90.0,0.0,LHPV2a1_d
+single,cooling (VP3a),left,62790,90.0,0.0,LHPV6p1
+single,cooling (VP3a),left,62956,90.0,0.0,VES079
+single,cooling (VP3a),left,63035,90.0,0.0,M_adPNm3
+single,cooling (VP3a),left,63058,90.0,0.0,CB3114
+single,cooling (VP3a),left,63873,90.0,0.0,LHAD4a1
+single,cooling (VP3a),left,66179,90.0,0.0,CL286
+single,cooling (VP3a),left,66210,90.0,0.0,CB1056
+single,cooling (VP3a),left,66466,90.0,0.0,SIP087
+single,cooling (VP3a),left,67448,90.0,0.0,PLP073
+single,cooling (VP3a),left,67620,90.0,0.0,LHPV6h2
+single,cooling (VP3a),left,67725,90.0,0.0,SLP056
+single,cooling (VP3a),left,68021,90.0,0.0,VP1m+VP5_ilPN
+single,cooling (VP3a),left,68400,90.0,0.0,WED125
+single,cooling (VP3a),left,68788,90.0,0.0,LHCENT4
+single,cooling (VP3a),left,69035,90.0,0.0,CL063
+single,cooling (VP3a),left,69523,90.0,0.0,cL19
+single,cooling (VP3a),left,69538,90.0,0.0,CB2005
+single,cooling (VP3a),left,70068,90.0,0.0,SIP081
+single,cooling (VP3a),left,70420,90.0,0.0,LHPV6o1
+single,cooling (VP3a),left,71754,90.0,0.0,SLP377
+single,cooling (VP3a),left,73158,90.0,0.0,ATL011
+single,cooling (VP3a),left,76889,90.0,0.0,ATL023
+single,cooling (VP3a),left,77396,90.0,0.0,lLN2P_c
+single,cooling (VP3a),left,78267,90.0,0.0,SMPp&v1A_P03
+single,cooling (VP3a),left,78964,90.0,0.0,LHPV2f2
+single,cooling (VP3a),left,80272,90.0,0.0,CB0010
+single,cooling (VP3a),left,80979,90.0,0.0,LHPV7a2
+single,cooling (VP3a),left,81005,90.0,0.0,SIP081
+single,cooling (VP3a),left,81429,90.0,0.0,WED121
+single,cooling (VP3a),left,81492,90.0,0.0,VES079
+single,cooling (VP3a),left,82091,90.0,0.0,ATL014
+single,cooling (VP3a),left,83271,90.0,0.0,SLP457
+single,cooling (VP3a),left,83777,90.0,0.0,LHPV6l2
+single,cooling (VP3a),left,83834,90.0,0.0,LHAV6g1
+single,cooling (VP3a),left,83934,90.0,0.0,LHPV6c1
+single,cooling (VP3a),left,85227,92.5,0.0,lLN2X04
+single,cooling (VP3a),left,85439,90.0,0.0,CB2810
+single,cooling (VP3a),left,86007,90.0,0.0,M_l2PN3t18
+single,cooling (VP3a),left,86688,95.0,0.0,LHPV2f2
+single,cooling (VP3a),left,86882,90.0,0.0,LHPV10b1
+single,cooling (VP3a),left,87642,90.0,0.0,VP1l+VP3_ilPN
+single,cooling (VP3a),left,87651,90.0,0.0,SLP457
+single,cooling (VP3a),left,88224,90.0,0.0,CB0196
+single,cooling (VP3a),left,88511,90.0,0.0,CL133
+single,cooling (VP3a),left,88522,90.0,0.0,LHAV3q1
+single,cooling (VP3a),left,89074,90.0,0.0,CB0196
+single,cooling (VP3a),left,89212,90.0,0.0,LHAV2d1
+single,cooling (VP3a),left,89673,90.0,0.0,CRE011
+single,cooling (VP3a),left,89967,90.0,0.0,M_spPN4t9
+single,cooling (VP3a),left,91277,90.0,0.0,LHPV6c1
+single,cooling (VP3a),left,91304,90.0,0.0,SLP457
+single,cooling (VP3a),left,92516,90.0,0.0,SMP441
+single,cooling (VP3a),left,93222,90.0,0.0,LAL112
+single,cooling (VP3a),left,93320,90.0,0.0,LAL112
+single,cooling (VP3a),left,93555,90.0,0.0,SLP314
+single,cooling (VP3a),left,93701,90.0,0.0,CB0633
+single,cooling (VP3a),left,94122,90.0,0.0,LHAV7a6
+single,cooling (VP3a),left,94379,90.0,0.0,CB3013
+single,cooling (VP3a),left,94741,90.0,0.0,SLP382
+single,cooling (VP3a),left,94794,90.0,0.0,PLP067b
+single,cooling (VP3a),left,95347,90.0,0.0,SLP314
+single,cooling (VP3a),left,96018,90.0,0.0,CL021
+single,cooling (VP3a),left,96176,90.0,0.0,SLP072
+single,cooling (VP3a),left,96194,90.0,0.0,PLP130
+single,cooling (VP3a),left,96457,90.0,0.0,SLP080
+single,cooling (VP3a),left,97826,90.0,0.0,VP3+_l2PN
+single,cooling (VP3a),left,98857,90.0,0.0,LHPV6k2
+single,cooling (VP3a),left,98974,90.0,0.0,PLP155
+single,cooling (VP3a),left,99364,92.5,0.0,WED182
+single,cooling (VP3a),left,100622,90.0,0.0,LHAD4a1
+single,cooling (VP3a),left,101217,90.0,0.0,CB1982
+single,cooling (VP3a),left,101220,90.0,0.0,PPL204
+single,cooling (VP3a),left,101221,90.0,0.0,LHPV3c1
+single,cooling (VP3a),left,101223,90.0,0.0,LHPV6k1
+single,cooling (VP3a),left,101345,90.0,0.0,LHAV7a6
+single,cooling (VP3a),left,102249,90.0,0.0,LHAV3o1
+single,cooling (VP3a),left,102574,90.0,0.0,SLP313
+single,cooling (VP3a),left,102676,90.0,0.0,CL362
+single,cooling (VP3a),left,103176,90.0,0.0,l2LN21
+single,cooling (VP3a),left,103178,90.0,0.0,SLP236
+single,cooling (VP3a),left,104123,90.0,0.0,LHPV2a1_d
+single,cooling (VP3a),left,104649,90.0,0.0,ATL012
+single,cooling (VP3a),left,105420,90.0,0.0,SLP314
+single,cooling (VP3a),left,106029,90.0,0.0,SLP382
+single,cooling (VP3a),left,106956,90.0,0.0,LHPV2f2
+single,cooling (VP3a),left,107771,90.0,0.0,CB0633
+single,cooling (VP3a),left,108631,90.0,0.0,CL001
+single,cooling (VP3a),left,110077,90.0,0.0,lLN2F_b
+single,cooling (VP3a),left,111124,85.0,0.0,VP3+_l2PN
+single,cooling (VP3a),left,112815,90.0,0.0,AOTU019
+single,cooling (VP3a),left,113029,90.0,0.0,SLP314
+single,cooling (VP3a),left,113215,90.0,0.0,SMP495a
+single,cooling (VP3a),left,113711,90.0,0.0,v2LN38
+single,cooling (VP3a),left,114073,90.0,0.0,LHPV2a1_a
+single,cooling (VP3a),left,114884,90.0,0.0,CB0349
+single,cooling (VP3a),left,115279,90.0,0.0,SLP118
+single,cooling (VP3a),left,115869,90.0,0.0,LHPV2a1_d
+single,cooling (VP3a),left,115974,90.0,0.0,CRE009
+single,cooling (VP3a),left,116422,90.0,0.0,CL126
+single,cooling (VP3a),left,116906,90.0,0.0,PLP065a
+single,cooling (VP3a),left,117059,90.0,0.0,SLP313
+single,cooling (VP3a),left,117660,90.0,0.0,LHAV2k8
+single,cooling (VP3a),left,118504,90.0,0.0,LHPV5g1_b
+single,cooling (VP3a),left,118544,90.0,0.0,LHPV5g1_b
+single,cooling (VP3a),left,119121,90.0,0.0,PLP197
+single,cooling (VP3a),left,120041,90.0,0.0,LHAV3f1
+single,cooling (VP3a),left,120112,90.0,0.0,ATL012
+single,cooling (VP3a),left,120609,90.0,0.0,OA-VPM4
+single,cooling (VP3a),left,121649,92.5,0.0,LHPV2f2
+single,cooling (VP3a),left,123232,90.0,0.0,PLP251
+single,cooling (VP3a),left,124499,92.5,0.0,MZ_lv2PN
+single,cooling (VP3a),left,125189,90.0,0.0,LHPV7a2
+single,cooling (VP3a),left,126399,90.0,0.0,SLP206
+single,cooling (VP3a),left,126419,90.0,0.0,SLP384
+single,cooling (VP3a),left,126426,90.0,0.0,LHPV2a1_d
+single,cooling (VP3a),left,126578,90.0,0.0,LHPV4l1
+single,cooling (VP3a),left,126585,90.0,0.0,LHPV2a1_d
+single,cooling (VP3a),left,130549,90.0,0.0,CB1056
+single,cooling (VP3a),left,131099,90.0,0.0,SLP080
+single,cooling (VP3a),left,132094,90.0,0.0,LAL112
+single,cooling (VP3a),left,132396,90.0,0.0,LAL112
+single,cooling (VP3a),left,133338,90.0,0.0,LHPV2a1_a
+single,cooling (VP3a),left,133589,90.0,0.0,LHAV3e3a
+single,cooling (VP3a),left,134041,90.0,0.0,ALON1
+single,cooling (VP3a),left,135102,90.0,0.0,cL05
+single,cooling (VP3a),left,135472,90.0,0.0,PPL203
+single,cooling (VP3a),left,137117,90.0,0.0,LHAV2p1
+family,humidity (VP5),left,624;635;15461;18721;19217;30808;34140;40390;46331;54463;77559;79599;81395;97826;111124;122519,25.0,0.0,
+family,humidity (VP5),right,624;635;15461;18721;19217;30808;34140;40390;46331;54463;77559;79599;81395;97826;111124;122519,0.0,35.0,
+family,cooling (VP3a),left,624;635;15461;18721;19217;30808;34140;40390;46331;54463;77559;79599;81395;97826;111124;122519,2.5,0.0,
+family,cooling (VP3a),right,624;635;15461;18721;19217;30808;34140;40390;46331;54463;77559;79599;81395;97826;111124;122519,0.0,7.5,
+family,heating (VP2),left,624;635;15461;18721;19217;30808;34140;40390;46331;54463;77559;79599;81395;97826;111124;122519,65.0,0.0,
+family,heating (VP2),right,624;635;15461;18721;19217;30808;34140;40390;46331;54463;77559;79599;81395;97826;111124;122519,0.0,50.0,
+random 0,humidity (VP5),left,40962;83834;63873;10891;96176;83934;103178;119740;104123;15977;132396;36949;66254;3405;26973;88511,82.5,0.0,
+random 0,humidity (VP5),right,40962;83834;63873;10891;96176;83934;103178;119740;104123;15977;132396;36949;66254;3405;26973;88511,0.0,75.0,
+random 1,humidity (VP5),left,26371;18457;91304;40881;69035;1233;107771;135472;62790;22266;17311;68400;51024;52420;3826;7941,82.5,0.0,
+random 1,humidity (VP5),right,26371;18457;91304;40881;69035;1233;107771;135472;62790;22266;17311;68400;51024;52420;3826;7941,0.0,72.5,
+random 2,humidity (VP5),left,53582;89967;107771;126399;47046;117660;111976;76889;15977;94794;63058;22292;67725;41630;93701;46944,85.0,0.0,
+random 2,humidity (VP5),right,53582;89967;107771;126399;47046;117660;111976;76889;15977;94794;63058;22292;67725;41630;93701;46944,0.0,72.5,
+random 3,humidity (VP5),left,12120;12901;17598;33741;135472;29999;115974;92516;104649;49007;41693;138505;102249;83271;101220;46944,92.5,0.0,
+random 3,humidity (VP5),right,12120;12901;17598;33741;135472;29999;115974;92516;104649;49007;41693;138505;102249;83271;101220;46944,0.0,67.5,
+random 4,humidity (VP5),left,88224;40039;89212;116422;83271;118504;76889;18457;20208;46944;123636;115279;12437;96457;28342;115974,85.0,0.0,
+random 4,humidity (VP5),right,88224;40039;89212;116422;83271;118504;76889;18457;20208;46944;123636;115279;12437;96457;28342;115974,0.0,75.0,
+random 5,humidity (VP5),left,63873;125189;68400;59718;3405;51024;96176;104649;17311;80979;119121;53582;101345;52420;39921;31058,80.0,0.0,
+random 5,humidity (VP5),right,63873;125189;68400;59718;3405;51024;96176;104649;17311;80979;119121;53582;101345;52420;39921;31058,0.0,72.5,
+random 6,humidity (VP5),left,63058;116906;102676;20516;66466;45131;23842;31319;17598;126578;135472;107771;46235;48835;125189;121828,82.5,0.0,
+random 6,humidity (VP5),right,63058;116906;102676;20516;66466;45131;23842;31319;17598;126578;135472;107771;46235;48835;125189;121828,0.0,70.0,
+random 7,humidity (VP5),left,94379;18793;41630;27079;119740;119121;101221;94122;63058;23844;98974;3405;7941;9628;82267;67725,87.5,0.0,
+random 7,humidity (VP5),right,94379;18793;41630;27079;119740;119121;101221;94122;63058;23844;98974;3405;7941;9628;82267;67725,0.0,75.0,
+random 8,humidity (VP5),left,82091;35791;29232;36949;115279;133338;40039;22266;101220;28718;31319;114884;30291;94849;77147;103178,82.5,0.0,
+random 8,humidity (VP5),right,82091;35791;29232;36949;115279;133338;40039;22266;101220;28718;31319;114884;30291;94849;77147;103178,0.0,72.5,
+random 9,humidity (VP5),left,31007;83777;80272;120609;51099;108631;23720;68788;119740;45131;17311;104123;137117;6832;10891;126399,87.5,0.0,
+random 9,humidity (VP5),right,31007;83777;80272;120609;51099;108631;23720;68788;119740;45131;17311;104123;137117;6832;10891;126399,0.0,70.0,
+random 10,humidity (VP5),left,22266;51099;89967;48572;66179;56777;9628;98974;83834;135472;119121;118544;62790;12901;42029;113029,77.5,0.0,
+random 10,humidity (VP5),right,22266;51099;89967;48572;66179;56777;9628;98974;83834;135472;119121;118544;62790;12901;42029;113029,0.0,72.5,
+random 11,humidity (VP5),left,38927;89967;94379;133338;27079;41630;43048;70420;14082;126419;39227;68788;114884;104123;80272;130549,82.5,0.0,
+random 11,humidity (VP5),right,38927;89967;94379;133338;27079;41630;43048;70420;14082;126419;39227;68788;114884;104123;80272;130549,0.0,72.5,
+random 12,humidity (VP5),left,76889;47133;101221;96457;113711;115974;18793;28297;93555;68400;135472;70420;78267;88511;41693;96018,85.0,0.0,
+random 12,humidity (VP5),right,76889;47133;101221;96457;113711;115974;18793;28297;93555;68400;135472;70420;78267;88511;41693;96018,0.0,75.0,
+random 13,humidity (VP5),left,118544;76889;66466;138505;15977;115869;44912;130549;77147;27079;126426;66254;82267;88224;28155;18793,82.5,0.0,
+random 13,humidity (VP5),right,118544;76889;66466;138505;15977;115869;44912;130549;77147;27079;126426;66254;82267;88224;28155;18793,0.0,70.0,
+random 14,humidity (VP5),left,22292;39227;116422;96194;115974;15977;117660;29232;135102;80272;59988;30291;118544;135472;22266;82091,82.5,0.0,
+random 14,humidity (VP5),right,22292;39227;116422;96194;115974;15977;117660;29232;135102;80272;59988;30291;118544;135472;22266;82091,0.0,72.5,
+random 15,humidity (VP5),left,63873;126419;89074;67620;12623;28297;135102;77147;103178;18793;36949;94849;63035;68400;29999;98857,85.0,0.0,
+random 15,humidity (VP5),right,63873;126419;89074;67620;12623;28297;135102;77147;103178;18793;36949;94849;63035;68400;29999;98857,0.0,75.0,
+random 16,humidity (VP5),left,56698;66179;101221;68400;21139;17598;47046;93222;46088;103178;42035;132396;14082;1233;63873;111976,82.5,0.0,
+random 16,humidity (VP5),right,56698;66179;101221;68400;21139;17598;47046;93222;46088;103178;42035;132396;14082;1233;63873;111976,0.0,72.5,
+random 17,humidity (VP5),left,96457;133589;51099;40991;68788;1205;119740;78267;29999;27079;89967;20516;51155;49007;44912;58415,92.5,0.0,
+random 17,humidity (VP5),right,96457;133589;51099;40991;68788;1205;119740;78267;29999;27079;89967;20516;51155;49007;44912;58415,0.0,75.0,
+random 18,humidity (VP5),left,94379;40962;120112;66210;96018;62790;85227;23615;63058;51024;121828;35791;117660;28155;114073;126585,85.0,0.0,
+random 18,humidity (VP5),right,94379;40962;120112;66210;96018;62790;85227;23615;63058;51024;121828;35791;117660;28155;114073;126585,0.0,70.0,
+random 19,humidity (VP5),left,81492;39397;66179;125189;76889;88224;105420;22100;132094;118504;82091;119740;91277;44912;40039;51099,77.5,0.0,
+random 19,humidity (VP5),right,81492;39397;66179;125189;76889;88224;105420;22100;132094;118504;82091;119740;91277;44912;40039;51099,0.0,75.0,
+random 20,humidity (VP5),left,42035;81005;28718;56698;99364;95347;133589;83834;94122;47133;100622;25945;22292;135472;41630;39921,82.5,0.0,
+random 20,humidity (VP5),right,42035;81005;28718;56698;99364;95347;133589;83834;94122;47133;100622;25945;22292;135472;41630;39921,0.0,67.5,
+random 21,humidity (VP5),left,45715;28342;30291;46235;126426;76889;67725;88522;77147;86882;40039;123636;42584;26371;84617;41693,82.5,0.0,
+random 21,humidity (VP5),right,45715;28342;30291;46235;126426;76889;67725;88522;77147;86882;40039;123636;42584;26371;84617;41693,0.0,75.0,
+random 22,humidity (VP5),left,80979;48912;15977;94849;35791;83271;121828;40881;85698;93320;92516;22292;22100;51024;84617;83834,77.5,0.0,
+random 22,humidity (VP5),right,80979;48912;15977;94849;35791;83271;121828;40881;85698;93320;92516;22292;22100;51024;84617;83834,0.0,72.5,
+random 23,humidity (VP5),left,62956;40039;104123;36949;39227;119121;115974;107771;81005;31058;43048;31319;114884;92516;40881;49007,85.0,0.0,
+random 23,humidity (VP5),right,62956;40039;104123;36949;39227;119121;115974;107771;81005;31058;43048;31319;114884;92516;40881;49007,0.0,75.0,
+random 24,humidity (VP5),left,88511;21139;40962;94741;45131;56777;85439;94794;17598;30291;40881;68400;76889;51024;102574;112815,80.0,0.0,
+random 24,humidity (VP5),right,88511;21139;40962;94741;45131;56777;85439;94794;17598;30291;40881;68400;76889;51024;102574;112815,0.0,72.5,
+random 25,humidity (VP5),left,76889;59604;19945;93555;69523;49007;105420;24753;108631;89212;113029;89967;119740;93222;96311;102249,90.0,0.0,
+random 25,humidity (VP5),right,76889;59604;19945;93555;69523;49007;105420;24753;108631;89212;113029;89967;119740;93222;96311;102249,0.0,77.5,
+random 26,humidity (VP5),left,131099;67620;117660;23615;36949;1233;126578;41693;46944;101345;26973;105420;82091;125189;63873;106029,82.5,0.0,
+random 26,humidity (VP5),right,131099;67620;117660;23615;36949;1233;126578;41693;46944;101345;26973;105420;82091;125189;63873;106029,0.0,72.5,
+random 27,humidity (VP5),left,70068;99364;83271;27509;126578;38441;44553;80979;29999;30291;19166;23186;66466;7941;67620;26371,82.5,0.0,
+random 27,humidity (VP5),right,70068;99364;83271;27509;126578;38441;44553;80979;29999;30291;19166;23186;66466;7941;67620;26371,0.0,72.5,
+random 28,humidity (VP5),left,93701;101345;31058;133589;98857;77147;93555;83271;39398;135472;28342;66210;132396;98974;27079;59988,85.0,0.0,
+random 28,humidity (VP5),right,93701;101345;31058;133589;98857;77147;93555;83271;39398;135472;28342;66210;132396;98974;27079;59988,0.0,77.5,
+random 29,humidity (VP5),left,96457;114884;105420;14082;38441;56777;27509;46944;23844;77147;81492;80272;126399;92516;46235;89212,82.5,0.0,
+random 29,humidity (VP5),right,96457;114884;105420;14082;38441;56777;27509;46944;23844;77147;81492;80272;126399;92516;46235;89212,0.0,72.5,
+random 30,humidity (VP5),left,21139;48912;27509;44064;80979;96018;77147;17311;104123;66179;29999;23842;76889;126426;83777;26973,80.0,0.0,
+random 30,humidity (VP5),right,21139;48912;27509;44064;80979;96018;77147;17311;104123;66179;29999;23842;76889;126426;83777;26973,0.0,70.0,
+random 31,humidity (VP5),left,12623;44553;83271;71754;91277;42029;76889;82267;126419;88224;101220;48912;44912;85698;67620;113711,82.5,0.0,
+random 31,humidity (VP5),right,12623;44553;83271;71754;91277;42029;76889;82267;126419;88224;101220;48912;44912;85698;67620;113711,0.0,75.0,
+random 32,humidity (VP5),left,135472;126399;69523;19166;107771;27509;59604;26973;38927;17598;115869;69035;28959;52420;51099;70420,77.5,0.0,
+random 32,humidity (VP5),right,135472;126399;69523;19166;107771;27509;59604;26973;38927;17598;115869;69035;28959;52420;51099;70420,0.0,72.5,
+random 33,humidity (VP5),left,25945;134041;53582;28959;89673;138505;120112;63873;66466;58415;112815;101220;34167;85698;82267;102676,75.0,0.0,
+random 33,humidity (VP5),right,25945;134041;53582;28959;89673;138505;120112;63873;66466;58415;112815;101220;34167;85698;82267;102676,0.0,67.5,
+random 34,humidity (VP5),left,117660;102249;93320;35791;85227;132094;40039;24753;36949;28342;108631;81005;62790;41630;83271;100622,87.5,0.0,
+random 34,humidity (VP5),right,117660;102249;93320;35791;85227;132094;40039;24753;36949;28342;108631;81005;62790;41630;83271;100622,0.0,77.5,
+random 35,humidity (VP5),left,93701;28718;63035;23842;138505;94849;134041;135472;45131;78267;119121;135102;46235;126578;39397;21139,82.5,0.0,
+random 35,humidity (VP5),right,93701;28718;63035;23842;138505;94849;134041;135472;45131;78267;119121;135102;46235;126578;39397;21139,0.0,65.0,
+random 36,humidity (VP5),left,23844;96311;22266;126578;83934;131099;26371;70420;68788;126399;17311;88224;71754;115974;132396;133589,82.5,0.0,
+random 36,humidity (VP5),right,23844;96311;22266;126578;83934;131099;26371;70420;68788;126399;17311;88224;71754;115974;132396;133589,0.0,72.5,
+random 37,humidity (VP5),left,52068;83934;88224;44064;48835;101220;91277;45715;29999;132094;102249;118544;55361;51099;39227;48572,87.5,0.0,
+random 37,humidity (VP5),right,52068;83934;88224;44064;48835;101220;91277;45715;29999;132094;102249;118544;55361;51099;39227;48572,0.0,72.5,
+random 38,humidity (VP5),left,137117;115974;41630;21139;117059;60672;60863;40039;94122;133589;63873;83777;96457;96194;94794;108631,85.0,0.0,
+random 38,humidity (VP5),right,137117;115974;41630;21139;117059;60672;60863;40039;94122;133589;63873;83777;96457;96194;94794;108631,0.0,75.0,
+random 39,humidity (VP5),left,76889;118544;131099;88522;27456;48572;20516;89967;1233;47133;52068;53582;107771;126426;126399;23186,85.0,0.0,
+random 39,humidity (VP5),right,76889;118544;131099;88522;27456;48572;20516;89967;1233;47133;52068;53582;107771;126426;126399;23186,0.0,72.5,
+random 40,humidity (VP5),left,87651;88522;23186;123636;46088;58415;25945;69523;47046;40962;52068;31319;96194;28155;93555;36949,82.5,0.0,
+random 40,humidity (VP5),right,87651;88522;23186;123636;46088;58415;25945;69523;47046;40962;52068;31319;96194;28155;93555;36949,0.0,75.0,
+random 41,humidity (VP5),left,21139;93555;66254;40039;96194;94849;29999;28297;105420;46944;59988;111976;82091;35791;123232;63058,87.5,0.0,
+random 41,humidity (VP5),right,21139;93555;66254;40039;96194;94849;29999;28297;105420;46944;59988;111976;82091;35791;123232;63058,0.0,72.5,
+random 42,humidity (VP5),left,126578;68021;1246;59988;126419;15799;40962;113029;110077;102249;70068;17311;53582;26371;43048;115974,85.0,0.0,
+random 42,humidity (VP5),right,126578;68021;1246;59988;126419;15799;40962;113029;110077;102249;70068;17311;53582;26371;43048;115974,0.0,70.0,
+random 43,humidity (VP5),left,60672;123232;126399;66466;8014;103178;126578;39921;126419;31319;28342;45715;89967;46235;52068;1205,82.5,0.0,
+random 43,humidity (VP5),right,60672;123232;126399;66466;8014;103178;126578;39921;126419;31319;28342;45715;89967;46235;52068;1205,0.0,75.0,
+random 44,humidity (VP5),left,117660;1233;23842;15799;93320;108631;95347;94379;18457;47133;66179;60863;28342;114073;59604;67725,80.0,0.0,
+random 44,humidity (VP5),right,117660;1233;23842;15799;93320;108631;95347;94379;18457;47133;66179;60863;28342;114073;59604;67725,0.0,75.0,
+random 45,humidity (VP5),left,22266;51024;120112;39921;52068;3405;66254;52420;105420;113029;113711;125189;26973;29999;94741;48912,85.0,0.0,
+random 45,humidity (VP5),right,22266;51024;120112;39921;52068;3405;66254;52420;105420;113029;113711;125189;26973;29999;94741;48912,0.0,70.0,
+random 46,humidity (VP5),left,34167;40991;102676;20208;94794;22266;93555;134041;66210;117660;119121;55361;120112;135102;121828;138505,77.5,0.0,
+random 46,humidity (VP5),right,34167;40991;102676;20208;94794;22266;93555;134041;66210;117660;119121;55361;120112;135102;121828;138505,0.0,67.5,
+random 47,humidity (VP5),left,68021;63873;102676;94794;77147;60672;14082;55361;132094;93701;99364;47133;12120;23720;18793;51155,80.0,0.0,
+random 47,humidity (VP5),right,68021;63873;102676;94794;77147;60672;14082;55361;132094;93701;99364;47133;12120;23720;18793;51155,0.0,72.5,
+random 48,humidity (VP5),left,48572;61749;85439;101345;36669;100622;126419;22100;48835;102574;8014;111976;85698;35981;36949;80272,80.0,0.0,
+random 48,humidity (VP5),right,48572;61749;85439;101345;36669;100622;126419;22100;48835;102574;8014;111976;85698;35981;36949;80272,0.0,75.0,
+random 49,humidity (VP5),left,19166;130549;103178;27456;85227;63873;123232;105420;23844;35981;80979;41630;118544;40039;114884;18793,85.0,0.0,
+random 49,humidity (VP5),right,19166;130549;103178;27456;85227;63873;123232;105420;23844;35981;80979;41630;118544;40039;114884;18793,0.0,75.0,
+random 50,humidity (VP5),left,25529;45131;3405;20208;20516;92516;125189;22266;43048;28342;117660;59718;137117;117059;81492;1246,85.0,0.0,
+random 50,humidity (VP5),right,25529;45131;3405;20208;20516;92516;125189;22266;43048;28342;117660;59718;137117;117059;81492;1246,0.0,75.0,
+random 51,humidity (VP5),left,115974;23842;120609;52068;45131;17598;67725;94122;63873;88224;81005;46944;29232;91304;23615;83934,80.0,0.0,
+random 51,humidity (VP5),right,115974;23842;120609;52068;45131;17598;67725;94122;63873;88224;81005;46944;29232;91304;23615;83934,0.0,72.5,
+random 52,humidity (VP5),left,30291;61749;56698;9628;133589;3826;42029;46235;87651;63035;3405;27456;31007;105420;73158;135102,80.0,0.0,
+random 52,humidity (VP5),right,30291;61749;56698;9628;133589;3826;42029;46235;87651;63035;3405;27456;31007;105420;73158;135102,0.0,70.0,
+random 53,humidity (VP5),left,76889;22266;102574;23844;114884;28959;66179;51099;25945;34167;23186;22292;120041;60863;61297;85698,85.0,0.0,
+random 53,humidity (VP5),right,76889;22266;102574;23844;114884;28959;66179;51099;25945;34167;23186;22292;120041;60863;61297;85698,0.0,72.5,
+random 54,humidity (VP5),left,88511;12120;69523;1246;60863;70068;91277;96194;120112;27509;30291;61749;40881;48572;59604;98857,77.5,0.0,
+random 54,humidity (VP5),right,88511;12120;69523;1246;60863;70068;91277;96194;120112;27509;30291;61749;40881;48572;59604;98857,0.0,72.5,
+random 55,humidity (VP5),left,48912;84617;95347;1205;41693;85698;44064;38441;108631;96176;118504;36669;40962;85227;89967;39227,82.5,0.0,
+random 55,humidity (VP5),right,48912;84617;95347;1205;41693;85698;44064;38441;108631;96176;118504;36669;40962;85227;89967;39227,0.0,72.5,
+random 56,humidity (VP5),left,113711;34167;44064;70420;98974;96311;43048;98857;101220;56698;9628;91277;6832;104123;52420;89673,85.0,0.0,
+random 56,humidity (VP5),right,113711;34167;44064;70420;98974;96311;43048;98857;101220;56698;9628;91277;6832;104123;52420;89673,0.0,72.5,
+random 57,humidity (VP5),left,66210;112815;115869;46235;73158;87651;115279;58415;67620;113711;110077;30291;132094;66254;102676;126419,85.0,0.0,
+random 57,humidity (VP5),right,66210;112815;115869;46235;73158;87651;115279;58415;67620;113711;110077;30291;132094;66254;102676;126419,0.0,75.0,
+random 58,humidity (VP5),left,48912;132094;89074;99364;83271;100622;102676;96018;59604;43496;118544;63873;76889;51155;31007;69035,82.5,0.0,
+random 58,humidity (VP5),right,48912;132094;89074;99364;83271;100622;102676;96018;59604;43496;118544;63873;76889;51155;31007;69035,0.0,75.0,
+random 59,humidity (VP5),left,99364;44553;51155;19600;83834;36669;1205;135102;59718;70068;1233;66466;7941;82091;82267;120112,82.5,0.0,
+random 59,humidity (VP5),right,99364;44553;51155;19600;83834;36669;1205;135102;59718;70068;1233;66466;7941;82091;82267;120112,0.0,72.5,
+random 60,humidity (VP5),left,126578;38441;40962;116422;132396;3405;26371;44912;114884;68788;56777;92516;88522;126426;101345;25945,85.0,0.0,
+random 60,humidity (VP5),right,126578;38441;40962;116422;132396;3405;26371;44912;114884;68788;56777;92516;88522;126426;101345;25945,0.0,75.0,
+random 61,humidity (VP5),left,6832;63058;119740;70420;81492;66466;94379;22266;36669;15799;99364;17311;44064;28342;93320;83934,82.5,0.0,
+random 61,humidity (VP5),right,6832;63058;119740;70420;81492;66466;94379;22266;36669;15799;99364;17311;44064;28342;93320;83934,0.0,75.0,
+random 62,humidity (VP5),left,26973;46088;86882;22100;102249;66466;20516;125189;93320;8014;116906;119740;108631;39398;83271;70420,82.5,0.0,
+random 62,humidity (VP5),right,26973;46088;86882;22100;102249;66466;20516;125189;93320;8014;116906;119740;108631;39398;83271;70420,0.0,72.5,
+random 63,humidity (VP5),left,20208;98974;106029;113711;117660;31007;70420;58415;23842;85227;132396;17598;46088;52420;33741;89673,85.0,0.0,
+random 63,humidity (VP5),right,20208;98974;106029;113711;117660;31007;70420;58415;23842;85227;132396;17598;46088;52420;33741;89673,0.0,72.5,
+random 64,humidity (VP5),left,94849;69035;38441;88522;76889;15977;135472;26371;48835;3826;70420;17311;19166;111976;23186;48572,85.0,0.0,
+random 64,humidity (VP5),right,94849;69035;38441;88522;76889;15977;135472;26371;48835;3826;70420;17311;19166;111976;23186;48572,0.0,72.5,
+random 65,humidity (VP5),left,38441;36949;39397;96457;36669;10891;14082;27509;126585;28155;85698;59604;71754;12120;23186;17311,82.5,0.0,
+random 65,humidity (VP5),right,38441;36949;39397;96457;36669;10891;14082;27509;126585;28155;85698;59604;71754;12120;23186;17311,0.0,70.0,
+random 66,humidity (VP5),left,116906;101221;52420;68400;80272;1246;103178;42029;1205;51099;48572;107771;68021;23186;20516;104123,82.5,0.0,
+random 66,humidity (VP5),right,116906;101221;52420;68400;80272;1246;103178;42029;1205;51099;48572;107771;68021;23186;20516;104123,0.0,70.0,
+random 67,humidity (VP5),left,83271;25945;103178;98857;89212;82091;113215;18793;10891;55361;76889;22292;93222;27509;91277;43496,82.5,0.0,
+random 67,humidity (VP5),right,83271;25945;103178;98857;89212;82091;113215;18793;10891;55361;76889;22292;93222;27509;91277;43496,0.0,75.0,
+random 68,humidity (VP5),left,20516;104649;120112;66210;34167;52068;36949;96018;83271;123232;100622;52420;39398;81005;3826;22292,80.0,0.0,
+random 68,humidity (VP5),right,20516;104649;120112;66210;34167;52068;36949;96018;83271;123232;100622;52420;39398;81005;3826;22292,0.0,75.0,
+random 69,humidity (VP5),left,120112;133338;123232;53582;28959;96457;56777;69035;119740;102574;22100;68021;114073;12901;23186;107771,80.0,0.0,
+random 69,humidity (VP5),right,120112;133338;123232;53582;28959;96457;56777;69035;119740;102574;22100;68021;114073;12901;23186;107771,0.0,70.0,
+random 70,humidity (VP5),left,43048;102676;59718;113215;120112;123636;98974;52420;21139;40039;51024;138505;28959;114884;41693;42035,80.0,0.0,
+random 70,humidity (VP5),right,43048;102676;59718;113215;120112;123636;98974;52420;21139;40039;51024;138505;28959;114884;41693;42035,0.0,70.0,
+random 71,humidity (VP5),left,14082;34167;44064;69035;102249;19166;117660;23615;83834;113029;126578;77147;100622;19945;132396;70068,82.5,0.0,
+random 71,humidity (VP5),right,14082;34167;44064;69035;102249;19166;117660;23615;83834;113029;126578;77147;100622;19945;132396;70068,0.0,72.5,
+random 72,humidity (VP5),left,38441;61297;25945;83934;99364;44912;3826;48912;62956;3405;94379;73158;113029;88511;114884;105420,80.0,0.0,
+random 72,humidity (VP5),right,38441;61297;25945;83934;99364;44912;3826;48912;62956;3405;94379;73158;113029;88511;114884;105420,0.0,75.0,
+random 73,humidity (VP5),left,91304;20208;116906;83271;135472;83934;126399;130549;12120;19600;41630;121828;116422;89074;3405;43496,85.0,0.0,
+random 73,humidity (VP5),right,91304;20208;116906;83271;135472;83934;126399;130549;12120;19600;41630;121828;116422;89074;3405;43496,0.0,70.0,
+random 74,humidity (VP5),left,67725;30291;47133;94379;1246;120041;137117;20208;119121;68021;98974;47046;31319;70420;84617;35791,80.0,0.0,
+random 74,humidity (VP5),right,67725;30291;47133;94379;1246;120041;137117;20208;119121;68021;98974;47046;31319;70420;84617;35791,0.0,70.0,
+random 75,humidity (VP5),left,115974;39227;66210;15799;28718;110077;126578;44553;19945;121828;68021;88511;93222;82267;85698;120041,82.5,0.0,
+random 75,humidity (VP5),right,115974;39227;66210;15799;28718;110077;126578;44553;19945;121828;68021;88511;93222;82267;85698;120041,0.0,70.0,
+random 76,humidity (VP5),left,35791;101223;132094;85227;12437;94849;38927;46944;137117;26371;22266;102676;1205;116906;113215;117660,85.0,0.0,
+random 76,humidity (VP5),right,35791;101223;132094;85227;12437;94849;38927;46944;137117;26371;22266;102676;1205;116906;113215;117660,0.0,72.5,
+random 77,humidity (VP5),left,62956;89967;101223;41693;85698;111976;33741;27079;23186;35981;101345;39921;62790;98974;18793;82267,85.0,0.0,
+random 77,humidity (VP5),right,62956;89967;101223;41693;85698;111976;33741;27079;23186;35981;101345;39921;62790;98974;18793;82267,0.0,75.0,
+random 78,humidity (VP5),left,68021;87651;66254;115974;83271;81005;24753;8014;82091;88224;31007;68400;88522;44064;113215;66466,80.0,0.0,
+random 78,humidity (VP5),right,68021;87651;66254;115974;83271;81005;24753;8014;82091;88224;31007;68400;88522;44064;113215;66466,0.0,70.0,
+random 79,humidity (VP5),left,59988;15977;85227;55361;66210;56777;70068;126419;104649;28155;42035;82267;89673;47133;89967;81005,85.0,0.0,
+random 79,humidity (VP5),right,59988;15977;85227;55361;66210;56777;70068;126419;104649;28155;42035;82267;89673;47133;89967;81005,0.0,72.5,
+random 80,humidity (VP5),left,68021;81005;1246;51155;135102;52068;87651;101221;27509;45131;45715;100622;126399;10891;73158;40962,85.0,0.0,
+random 80,humidity (VP5),right,68021;81005;1246;51155;135102;52068;87651;101221;27509;45131;45715;100622;126399;10891;73158;40962,0.0,70.0,
+random 81,humidity (VP5),left,44064;94794;60672;66210;41693;106029;117059;94766;86882;15799;126399;115869;31007;104649;1246;36949,87.5,0.0,
+random 81,humidity (VP5),right,44064;94794;60672;66210;41693;106029;117059;94766;86882;15799;126399;115869;31007;104649;1246;36949,0.0,75.0,
+random 82,humidity (VP5),left,98857;103178;1233;69035;20208;12623;35981;81492;1205;88511;100622;118504;22292;82267;43048;83777,82.5,0.0,
+random 82,humidity (VP5),right,98857;103178;1233;69035;20208;12623;35981;81492;1205;88511;100622;118504;22292;82267;43048;83777,0.0,72.5,
+random 83,humidity (VP5),left,17598;86882;73158;34167;126426;66179;102676;133338;19600;120112;24753;59988;7941;62956;39397;94766,82.5,0.0,
+random 83,humidity (VP5),right,17598;86882;73158;34167;126426;66179;102676;133338;19600;120112;24753;59988;7941;62956;39397;94766,0.0,72.5,
+random 84,humidity (VP5),left,60672;118504;17598;41693;80979;73158;81492;62790;68400;125189;101223;132396;134041;42584;23186;1205,80.0,0.0,
+random 84,humidity (VP5),right,60672;118504;17598;41693;80979;73158;81492;62790;68400;125189;101223;132396;134041;42584;23186;1205,0.0,72.5,
+random 85,humidity (VP5),left,22266;35791;12437;93222;104649;83271;18457;12120;17598;126426;31058;45131;30291;44912;23844;100622,85.0,0.0,
+random 85,humidity (VP5),right,22266;35791;12437;93222;104649;83271;18457;12120;17598;126426;31058;45131;30291;44912;23844;100622,0.0,75.0,
+random 86,humidity (VP5),left,1246;68400;47046;67725;94849;123636;85439;44064;48912;87651;120041;33741;94741;134041;8014;18793,77.5,0.0,
+random 86,humidity (VP5),right,1246;68400;47046;67725;94849;123636;85439;44064;48912;87651;120041;33741;94741;134041;8014;18793,0.0,75.0,
+random 87,humidity (VP5),left,21139;68788;28297;31007;104123;7941;135472;93701;22292;19166;69035;68400;28718;59718;12623;44553,82.5,0.0,
+random 87,humidity (VP5),right,21139;68788;28297;31007;104123;7941;135472;93701;22292;19166;69035;68400;28718;59718;12623;44553,0.0,67.5,
+random 88,humidity (VP5),left,114884;61749;102574;96194;120609;9628;88511;83777;113029;132094;111976;60672;24753;78267;73158;51024,82.5,0.0,
+random 88,humidity (VP5),right,114884;61749;102574;96194;120609;9628;88511;83777;113029;132094;111976;60672;24753;78267;73158;51024,0.0,72.5,
+random 89,humidity (VP5),left,20516;3826;59718;134041;77147;62790;112815;61297;12120;131099;26973;23615;14082;119740;9628;94122,75.0,0.0,
+random 89,humidity (VP5),right,20516;3826;59718;134041;77147;62790;112815;61297;12120;131099;26973;23615;14082;119740;9628;94122,0.0,70.0,
+random 90,humidity (VP5),left,17311;123636;133338;126419;107771;52068;82091;95347;93222;68400;115279;93555;39398;103178;116906;123232,82.5,0.0,
+random 90,humidity (VP5),right,17311;123636;133338;126419;107771;52068;82091;95347;93222;68400;115279;93555;39398;103178;116906;123232,0.0,72.5,
+random 91,humidity (VP5),left,63035;120041;22266;39398;114884;120609;114073;95347;67620;101223;27456;25945;9628;126426;20516;108631,77.5,0.0,
+random 91,humidity (VP5),right,63035;120041;22266;39398;114884;120609;114073;95347;67620;101223;27456;25945;9628;126426;20516;108631,0.0,72.5,
+random 92,humidity (VP5),left,44553;133338;135472;42035;42029;92516;118544;7941;120609;46235;94794;28155;138505;100622;20516;94122,85.0,0.0,
+random 92,humidity (VP5),right,44553;133338;135472;42035;42029;92516;118544;7941;120609;46235;94794;28155;138505;100622;20516;94122,0.0,70.0,
+random 93,humidity (VP5),left,52420;125189;76889;126419;68400;105420;27509;138505;1246;58415;126426;6832;1233;88522;52068;22292,82.5,0.0,
+random 93,humidity (VP5),right,52420;125189;76889;126419;68400;105420;27509;138505;1246;58415;126426;6832;1233;88522;52068;22292,0.0,67.5,
+random 94,humidity (VP5),left,19166;26371;23720;17598;28155;39227;73158;45131;133338;92516;88224;23615;135472;48912;21139;3405,85.0,0.0,
+random 94,humidity (VP5),right,19166;26371;23720;17598;28155;39227;73158;45131;133338;92516;88224;23615;135472;48912;21139;3405,0.0,72.5,
+random 95,humidity (VP5),left,87651;117059;18457;93701;49007;137117;71754;46235;102676;27079;119740;98974;123232;138505;114884;6832,90.0,0.0,
+random 95,humidity (VP5),right,87651;117059;18457;93701;49007;137117;71754;46235;102676;27079;119740;98974;123232;138505;114884;6832,0.0,70.0,
+random 96,humidity (VP5),left,130549;73158;126426;101345;27456;66179;120609;28342;82267;68400;1246;78267;96176;24753;88511;40962,82.5,0.0,
+random 96,humidity (VP5),right,130549;73158;126426;101345;27456;66179;120609;28342;82267;68400;1246;78267;96176;24753;88511;40962,0.0,75.0,
+random 97,humidity (VP5),left,121828;81005;44553;92516;12437;73158;6832;119121;1233;48572;15799;21139;100622;28297;138505;42029,82.5,0.0,
+random 97,humidity (VP5),right,121828;81005;44553;92516;12437;73158;6832;119121;1233;48572;15799;21139;100622;28297;138505;42029,0.0,67.5,
+random 98,humidity (VP5),left,71754;44553;78267;60863;104123;28155;89673;126578;49007;1205;130549;132396;113029;96311;120609;19166,90.0,0.0,
+random 98,humidity (VP5),right,71754;44553;78267;60863;104123;28155;89673;126578;49007;1205;130549;132396;113029;96311;120609;19166,0.0,72.5,
+random 99,humidity (VP5),left,60672;120112;1205;24753;96194;117059;44912;40881;27509;31058;40962;133589;17311;31319;3405;27456,80.0,0.0,
+random 99,humidity (VP5),right,60672;120112;1205;24753;96194;117059;44912;40881;27509;31058;40962;133589;17311;31319;3405;27456,0.0,75.0,
+random 0,cooling (VP3a),left,1684;137562;103176;78964;30341;16659;29999;22959;47685;124499;3658;28297;101217;134041;59753;12437,92.5,0.0,
+random 0,cooling (VP3a),right,1684;137562;103176;78964;30341;16659;29999;22959;47685;124499;3658;28297;101217;134041;59753;12437,0.0,52.5,
+random 1,cooling (VP3a),left,138505;106956;78964;28342;56646;114884;11094;121828;81429;29999;83777;3658;84617;90952;87642;67448,90.0,0.0,
+random 1,cooling (VP3a),right,138505;106956;78964;28342;56646;114884;11094;121828;81429;29999;83777;3658;84617;90952;87642;67448,0.0,55.0,
+random 2,cooling (VP3a),left,12572;106956;114884;87642;44553;134041;103176;3658;49007;22959;124499;12437;94849;121649;47685;28297,92.5,0.0,
+random 2,cooling (VP3a),right,12572;106956;114884;87642;44553;134041;103176;3658;49007;22959;124499;12437;94849;121649;47685;28297,0.0,55.0,
+random 3,cooling (VP3a),left,83777;3658;56646;28297;90952;59753;19628;134041;101217;47685;18793;31319;77396;12572;49007;121828,92.5,0.0,
+random 3,cooling (VP3a),right,83777;3658;56646;28297;90952;59753;19628;134041;101217;47685;18793;31319;77396;12572;49007;121828,0.0,55.0,
+random 4,cooling (VP3a),left,78964;28297;9969;49007;137562;84617;85227;43496;51517;3658;31319;88511;47685;19628;29999;101217,92.5,0.0,
+random 4,cooling (VP3a),right,78964;28297;9969;49007;137562;84617;85227;43496;51517;3658;31319;88511;47685;19628;29999;101217,0.0,52.5,
+random 5,cooling (VP3a),left,18793;114884;11094;47685;30341;111976;9969;94849;9863;85227;12437;49007;106956;27785;121828;15754,90.0,0.0,
+random 5,cooling (VP3a),right,18793;114884;11094;47685;30341;111976;9969;94849;9863;85227;12437;49007;106956;27785;121828;15754,0.0,55.0,
+random 6,cooling (VP3a),left,134041;86007;30341;114884;43496;51517;121828;138505;124499;3658;14158;49007;28297;9969;8334;94849,95.0,0.0,
+random 6,cooling (VP3a),right,134041;86007;30341;114884;43496;51517;121828;138505;124499;3658;14158;49007;28297;9969;8334;94849,0.0,55.0,
+random 7,cooling (VP3a),left,27785;78964;7941;15754;3658;101217;30341;111976;84617;103176;137562;49007;19628;86688;47685;69538,92.5,0.0,
+random 7,cooling (VP3a),right,27785;78964;7941;15754;3658;101217;30341;111976;84617;103176;137562;49007;19628;86688;47685;69538,0.0,52.5,
+random 8,cooling (VP3a),left,15754;26973;3658;134041;47685;78964;1684;114884;88511;12572;29999;101217;69538;14158;27785;9863,92.5,0.0,
+random 8,cooling (VP3a),right,15754;26973;3658;134041;47685;78964;1684;114884;88511;12572;29999;101217;69538;14158;27785;9863,0.0,52.5,
+random 9,cooling (VP3a),left,88511;69538;12437;137562;9863;138505;51517;43496;90952;11164;7941;86688;18793;67448;9969;99364,92.5,0.0,
+random 9,cooling (VP3a),right,88511;69538;12437;137562;9863;138505;51517;43496;90952;11164;7941;86688;18793;67448;9969;99364,0.0,52.5,
+random 10,cooling (VP3a),left,86007;137562;3658;18793;30341;106956;78964;47685;87642;114884;121649;43496;9969;1684;26973;67448,87.5,0.0,
+random 10,cooling (VP3a),right,86007;137562;3658;18793;30341;106956;78964;47685;87642;114884;121649;43496;9969;1684;26973;67448,0.0,52.5,
+random 11,cooling (VP3a),left,134041;101217;69538;9863;14158;83777;67448;121649;27785;80272;99364;3658;56646;86007;29999;59753,92.5,0.0,
+random 11,cooling (VP3a),right,134041;101217;69538;9863;14158;83777;67448;121649;27785;80272;99364;3658;56646;86007;29999;59753,0.0,55.0,
+random 12,cooling (VP3a),left,80272;26973;124499;51517;49007;11164;16659;12572;28342;137562;101217;9969;90952;19628;27785;56646,97.5,0.0,
+random 12,cooling (VP3a),right,80272;26973;124499;51517;49007;11164;16659;12572;28342;137562;101217;9969;90952;19628;27785;56646,0.0,55.0,
+random 13,cooling (VP3a),left,26973;18793;56646;88511;31319;1684;87642;137562;85227;84617;90952;124499;69538;81429;83777;99364,92.5,0.0,
+random 13,cooling (VP3a),right,26973;18793;56646;88511;31319;1684;87642;137562;85227;84617;90952;124499;69538;81429;83777;99364,0.0,52.5,
+random 14,cooling (VP3a),left,101217;137562;26973;59753;99364;12437;67448;11164;3658;86007;83777;44553;80272;87642;49007;31319,90.0,0.0,
+random 14,cooling (VP3a),right,101217;137562;26973;59753;99364;12437;67448;11164;3658;86007;83777;44553;80272;87642;49007;31319,0.0,52.5,
+random 15,cooling (VP3a),left,88511;111976;137562;121649;44553;84617;8334;19628;9863;16659;7941;26973;51517;86007;28297;99364,97.5,0.0,
+random 15,cooling (VP3a),right,88511;111976;137562;121649;44553;84617;8334;19628;9863;16659;7941;26973;51517;86007;28297;99364,0.0,55.0,
+random 16,cooling (VP3a),left,7941;47685;8334;121828;137562;103176;9863;69538;29999;1684;134041;83777;51517;31319;11164;121649,95.0,0.0,
+random 16,cooling (VP3a),right,7941;47685;8334;121828;137562;103176;9863;69538;29999;1684;134041;83777;51517;31319;11164;121649,0.0,55.0,
+random 17,cooling (VP3a),left,11094;22959;80272;56646;28297;51517;44553;1684;88511;9863;99364;77396;18793;134041;83777;29999,92.5,0.0,
+random 17,cooling (VP3a),right,11094;22959;80272;56646;28297;51517;44553;1684;88511;9863;99364;77396;18793;134041;83777;29999,0.0,55.0,
+random 18,cooling (VP3a),left,7941;8334;84617;124499;121649;137562;12437;78964;26973;30341;15754;59753;44553;12572;22959;19628,97.5,0.0,
+random 18,cooling (VP3a),right,7941;8334;84617;124499;121649;137562;12437;78964;26973;30341;15754;59753;44553;12572;22959;19628,0.0,52.5,
+random 19,cooling (VP3a),left,59753;84617;111976;83777;85227;88511;14158;43496;29999;86688;103176;137562;114884;12437;27785;12572,92.5,0.0,
+random 19,cooling (VP3a),right,59753;84617;111976;83777;85227;88511;14158;43496;29999;86688;103176;137562;114884;12437;27785;12572,0.0,52.5,
+random 20,cooling (VP3a),left,1684;111976;28297;12572;124499;114884;101217;121649;16659;44553;18793;27785;121828;29999;14158;30341,92.5,0.0,
+random 20,cooling (VP3a),right,1684;111976;28297;12572;124499;114884;101217;121649;16659;44553;18793;27785;121828;29999;14158;30341,0.0,55.0,
+random 21,cooling (VP3a),left,44553;86007;99364;51517;18793;12437;56646;11164;3658;121828;101217;11094;15754;28342;103176;9969,92.5,0.0,
+random 21,cooling (VP3a),right,44553;86007;99364;51517;18793;12437;56646;11164;3658;121828;101217;11094;15754;28342;103176;9969,0.0,55.0,
+random 22,cooling (VP3a),left,11094;69538;12572;16659;111976;77396;56646;94849;14158;22959;15754;3658;18793;31319;138505;47685,92.5,0.0,
+random 22,cooling (VP3a),right,11094;69538;12572;16659;111976;77396;56646;94849;14158;22959;15754;3658;18793;31319;138505;47685,0.0,55.0,
+random 23,cooling (VP3a),left,44553;138505;11094;9969;30341;7941;26973;86688;69538;51517;99364;77396;106956;80272;94849;83777,87.5,0.0,
+random 23,cooling (VP3a),right,44553;138505;11094;9969;30341;7941;26973;86688;69538;51517;99364;77396;106956;80272;94849;83777,0.0,52.5,
+random 24,cooling (VP3a),left,138505;49007;111976;137562;9863;29999;9969;47685;81429;99364;19628;121649;7941;15754;16659;124499,92.5,0.0,
+random 24,cooling (VP3a),right,138505;49007;111976;137562;9863;29999;9969;47685;81429;99364;19628;121649;7941;15754;16659;124499,0.0,55.0,
+random 25,cooling (VP3a),left,90952;84617;28297;121828;83777;30341;27785;14158;56646;47685;114884;137562;11094;9969;111976;86688,90.0,0.0,
+random 25,cooling (VP3a),right,90952;84617;28297;121828;83777;30341;27785;14158;56646;47685;114884;137562;11094;9969;111976;86688,0.0,52.5,
+random 26,cooling (VP3a),left,12572;44553;19628;94849;26973;7941;11094;14158;138505;137562;47685;77396;12437;49007;83777;28297,92.5,0.0,
+random 26,cooling (VP3a),right,12572;44553;19628;94849;26973;7941;11094;14158;138505;137562;47685;77396;12437;49007;83777;28297,0.0,52.5,
+random 27,cooling (VP3a),left,12572;85227;11164;67448;15754;101217;28297;59753;83777;81429;78964;29999;87642;11094;22959;99364,95.0,0.0,
+random 27,cooling (VP3a),right,12572;85227;11164;67448;15754;101217;28297;59753;83777;81429;78964;29999;87642;11094;22959;99364,0.0,55.0,
+random 28,cooling (VP3a),left,121649;8334;111976;88511;43496;11094;47685;12437;44553;1684;28297;18793;12572;19628;86007;121828,92.5,0.0,
+random 28,cooling (VP3a),right,121649;8334;111976;88511;43496;11094;47685;12437;44553;1684;28297;18793;12572;19628;86007;121828,0.0,55.0,
+random 29,cooling (VP3a),left,90952;26973;88511;27785;111976;114884;9863;78964;134041;67448;94849;56646;18793;7941;1684;84617,92.5,0.0,
+random 29,cooling (VP3a),right,90952;26973;88511;27785;111976;114884;9863;78964;134041;67448;94849;56646;18793;7941;1684;84617,0.0,52.5,
+random 30,cooling (VP3a),left,114884;30341;121649;94849;134041;86688;101217;11094;18793;9863;31319;84617;69538;99364;106956;16659,92.5,0.0,
+random 30,cooling (VP3a),right,114884;30341;121649;94849;134041;86688;101217;11094;18793;9863;31319;84617;69538;99364;106956;16659,0.0,52.5,
+random 31,cooling (VP3a),left,138505;103176;30341;31319;18793;19628;106956;9863;88511;28342;121828;59753;26973;99364;7941;69538,95.0,0.0,
+random 31,cooling (VP3a),right,138505;103176;30341;31319;18793;19628;106956;9863;88511;28342;121828;59753;26973;99364;7941;69538,0.0,55.0,
+random 32,cooling (VP3a),left,16659;101217;11094;80272;103176;121828;94849;138505;31319;11164;49007;30341;18793;12572;90952;7941,92.5,0.0,
+random 32,cooling (VP3a),right,16659;101217;11094;80272;103176;121828;94849;138505;31319;11164;49007;30341;18793;12572;90952;7941,0.0,55.0,
+random 33,cooling (VP3a),left,11164;47685;14158;15754;28342;80272;59753;103176;111976;27785;106956;8334;67448;12437;88511;30341,95.0,0.0,
+random 33,cooling (VP3a),right,11164;47685;14158;15754;28342;80272;59753;103176;111976;27785;106956;8334;67448;12437;88511;30341,0.0,55.0,
+random 34,cooling (VP3a),left,124499;12437;1684;85227;47685;31319;86007;67448;111976;138505;3658;78964;81429;19628;69538;88511,95.0,0.0,
+random 34,cooling (VP3a),right,124499;12437;1684;85227;47685;31319;86007;67448;111976;138505;3658;78964;81429;19628;69538;88511,0.0,52.5,
+random 35,cooling (VP3a),left,16659;88511;49007;121828;28342;83777;77396;103176;9969;59753;9863;15754;11094;29999;111976;7941,92.5,0.0,
+random 35,cooling (VP3a),right,16659;88511;49007;121828;28342;83777;77396;103176;9969;59753;9863;15754;11094;29999;111976;7941,0.0,55.0,
+random 36,cooling (VP3a),left,137562;90952;11094;103176;31319;114884;26973;9863;84617;30341;12572;69538;19628;121828;86688;124499,92.5,0.0,
+random 36,cooling (VP3a),right,137562;90952;11094;103176;31319;114884;26973;9863;84617;30341;12572;69538;19628;121828;86688;124499,0.0,55.0,
+random 37,cooling (VP3a),left,101217;94849;9863;19628;138505;51517;49007;1684;9969;47685;137562;87642;67448;12437;12572;78964,92.5,0.0,
+random 37,cooling (VP3a),right,101217;94849;9863;19628;138505;51517;49007;1684;9969;47685;137562;87642;67448;12437;12572;78964,0.0,55.0,
+random 38,cooling (VP3a),left,99364;7941;3658;67448;9863;87642;121649;9969;49007;94849;47685;83777;30341;106956;137562;14158,95.0,0.0,
+random 38,cooling (VP3a),right,99364;7941;3658;67448;9863;87642;121649;9969;49007;94849;47685;83777;30341;106956;137562;14158,0.0,52.5,
+random 39,cooling (VP3a),left,59753;86007;134041;26973;111976;124499;29999;83777;11164;138505;16659;51517;3658;28297;7941;121828,92.5,0.0,
+random 39,cooling (VP3a),right,59753;86007;134041;26973;111976;124499;29999;83777;11164;138505;16659;51517;3658;28297;7941;121828,0.0,55.0,
+random 40,cooling (VP3a),left,56646;29999;121649;7941;3658;121828;59753;30341;99364;80272;11164;51517;124499;103176;12572;88511,97.5,0.0,
+random 40,cooling (VP3a),right,56646;29999;121649;7941;3658;121828;59753;30341;99364;80272;11164;51517;124499;103176;12572;88511,0.0,55.0,
+random 41,cooling (VP3a),left,44553;12437;67448;88511;86007;8334;114884;15754;7941;124499;106956;121649;49007;14158;80272;30341,97.5,0.0,
+random 41,cooling (VP3a),right,44553;12437;67448;88511;86007;8334;114884;15754;7941;124499;106956;121649;49007;14158;80272;30341,0.0,52.5,
+random 42,cooling (VP3a),left,56646;69538;3658;22959;1684;81429;29999;26973;124499;90952;28297;51517;101217;84617;12437;31319,92.5,0.0,
+random 42,cooling (VP3a),right,56646;69538;3658;22959;1684;81429;29999;26973;124499;90952;28297;51517;101217;84617;12437;31319,0.0,52.5,
+random 43,cooling (VP3a),left,9969;15754;134041;101217;88511;51517;56646;8334;86688;30341;14158;31319;44553;12437;9863;81429,95.0,0.0,
+random 43,cooling (VP3a),right,9969;15754;134041;101217;88511;51517;56646;8334;86688;30341;14158;31319;44553;12437;9863;81429,0.0,52.5,
+random 44,cooling (VP3a),left,111976;14158;80272;27785;43496;29999;1684;26973;69538;87642;56646;85227;106956;121649;28297;51517,92.5,0.0,
+random 44,cooling (VP3a),right,111976;14158;80272;27785;43496;29999;1684;26973;69538;87642;56646;85227;106956;121649;28297;51517,0.0,52.5,
+random 45,cooling (VP3a),left,14158;28297;1684;26973;111976;80272;29999;12437;9969;69538;7941;78964;8334;84617;103176;137562,95.0,0.0,
+random 45,cooling (VP3a),right,14158;28297;1684;26973;111976;80272;29999;12437;9969;69538;7941;78964;8334;84617;103176;137562,0.0,52.5,
+random 46,cooling (VP3a),left,16659;85227;69538;47685;3658;121649;90952;84617;121828;26973;12437;80272;86688;77396;27785;19628,92.5,0.0,
+random 46,cooling (VP3a),right,16659;85227;69538;47685;3658;121649;90952;84617;121828;26973;12437;80272;86688;77396;27785;19628,0.0,55.0,
+random 47,cooling (VP3a),left,9863;83777;56646;11164;7941;121649;22959;3658;43496;85227;28297;69538;137562;111976;8334;49007,95.0,0.0,
+random 47,cooling (VP3a),right,9863;83777;56646;11164;7941;121649;22959;3658;43496;85227;28297;69538;137562;111976;8334;49007,0.0,52.5,
+random 48,cooling (VP3a),left,111976;1684;51517;43496;14158;31319;59753;88511;101217;11094;99364;114884;78964;28342;27785;86007,92.5,0.0,
+random 48,cooling (VP3a),right,111976;1684;51517;43496;14158;31319;59753;88511;101217;11094;99364;114884;78964;28342;27785;86007,0.0,55.0,
+random 49,cooling (VP3a),left,86007;47685;90952;69538;56646;111976;87642;28297;26973;51517;7941;19628;101217;78964;67448;43496,87.5,0.0,
+random 49,cooling (VP3a),right,86007;47685;90952;69538;56646;111976;87642;28297;26973;51517;7941;19628;101217;78964;67448;43496,0.0,52.5,
+random 50,cooling (VP3a),left,43496;12572;49007;51517;138505;87642;80272;86688;11094;8334;59753;26973;69538;121828;7941;121649,95.0,0.0,
+random 50,cooling (VP3a),right,43496;12572;49007;51517;138505;87642;80272;86688;11094;8334;59753;26973;69538;121828;7941;121649,0.0,55.0,
+random 51,cooling (VP3a),left,106956;22959;12572;11164;43496;114884;18793;121828;31319;11094;8334;9969;26973;86007;86688;59753,95.0,0.0,
+random 51,cooling (VP3a),right,106956;22959;12572;11164;43496;114884;18793;121828;31319;11094;8334;9969;26973;86007;86688;59753,0.0,55.0,
+random 52,cooling (VP3a),left,3658;134041;111976;88511;1684;138505;47685;27785;83777;43496;121649;103176;28297;99364;85227;14158,92.5,0.0,
+random 52,cooling (VP3a),right,3658;134041;111976;88511;1684;138505;47685;27785;83777;43496;121649;103176;28297;99364;85227;14158,0.0,52.5,
+random 53,cooling (VP3a),left,28342;137562;43496;28297;12437;138505;111976;77396;80272;106956;94849;121649;3658;90952;16659;15754,92.5,0.0,
+random 53,cooling (VP3a),right,28342;137562;43496;28297;12437;138505;111976;77396;80272;106956;94849;121649;3658;90952;16659;15754,0.0,55.0,
+random 54,cooling (VP3a),left,124499;111976;56646;138505;114884;28342;8334;47685;19628;28297;29999;9863;86688;22959;43496;137562,95.0,0.0,
+random 54,cooling (VP3a),right,124499;111976;56646;138505;114884;28342;8334;47685;19628;28297;29999;9863;86688;22959;43496;137562,0.0,52.5,
+random 55,cooling (VP3a),left,83777;26973;56646;43496;121649;19628;51517;49007;86688;12572;99364;134041;84617;47685;15754;9969,92.5,0.0,
+random 55,cooling (VP3a),right,83777;26973;56646;43496;121649;19628;51517;49007;86688;12572;99364;134041;84617;47685;15754;9969,0.0,52.5,
+random 56,cooling (VP3a),left,44553;31319;77396;12572;121828;87642;99364;101217;9969;26973;1684;19628;84617;59753;80272;18793,92.5,0.0,
+random 56,cooling (VP3a),right,44553;31319;77396;12572;121828;87642;99364;101217;9969;26973;1684;19628;84617;59753;80272;18793,0.0,55.0,
+random 57,cooling (VP3a),left,27785;114884;19628;106956;22959;84617;51517;69538;29999;44553;85227;87642;124499;77396;8334;43496,97.5,0.0,
+random 57,cooling (VP3a),right,27785;114884;19628;106956;22959;84617;51517;69538;29999;44553;85227;87642;124499;77396;8334;43496,0.0,52.5,
+random 58,cooling (VP3a),left,86688;26973;80272;121649;69538;28297;22959;111976;16659;30341;114884;85227;1684;138505;44553;14158,92.5,0.0,
+random 58,cooling (VP3a),right,86688;26973;80272;121649;69538;28297;22959;111976;16659;30341;114884;85227;1684;138505;44553;14158,0.0,55.0,
+random 59,cooling (VP3a),left,86688;16659;69538;11094;30341;90952;83777;80272;101217;114884;7941;3658;31319;9969;56646;134041,90.0,0.0,
+random 59,cooling (VP3a),right,86688;16659;69538;11094;30341;90952;83777;80272;101217;114884;7941;3658;31319;9969;56646;134041,0.0,52.5,
+random 60,cooling (VP3a),left,18793;88511;15754;114884;8334;49007;138505;121649;29999;83777;11094;78964;16659;137562;11164;69538,95.0,0.0,
+random 60,cooling (VP3a),right,18793;88511;15754;114884;8334;49007;138505;121649;29999;83777;11094;78964;16659;137562;11164;69538,0.0,52.5,
+random 61,cooling (VP3a),left,30341;85227;29999;86007;80272;121828;18793;47685;11164;137562;69538;83777;11094;101217;56646;9863,90.0,0.0,
+random 61,cooling (VP3a),right,30341;85227;29999;86007;80272;121828;18793;47685;11164;137562;69538;83777;11094;101217;56646;9863,0.0,52.5,
+random 62,cooling (VP3a),left,121828;8334;11164;78964;124499;3658;18793;31319;137562;69538;101217;85227;114884;103176;44553;9863,97.5,0.0,
+random 62,cooling (VP3a),right,121828;8334;11164;78964;124499;3658;18793;31319;137562;69538;101217;85227;114884;103176;44553;9863,0.0,52.5,
+random 63,cooling (VP3a),left,56646;1684;94849;27785;19628;83777;44553;90952;47685;16659;15754;86007;121649;12572;7941;28297,92.5,0.0,
+random 63,cooling (VP3a),right,56646;1684;94849;27785;19628;83777;44553;90952;47685;16659;15754;86007;121649;12572;7941;28297,0.0,52.5,
+random 64,cooling (VP3a),left,138505;103176;59753;44553;26973;43496;18793;86007;69538;9863;78964;56646;11094;83777;31319;3658,87.5,0.0,
+random 64,cooling (VP3a),right,138505;103176;59753;44553;26973;43496;18793;86007;69538;9863;78964;56646;11094;83777;31319;3658,0.0,52.5,
+random 65,cooling (VP3a),left,121649;121828;77396;28342;69538;81429;56646;101217;137562;111976;138505;29999;14158;47685;94849;7941,92.5,0.0,
+random 65,cooling (VP3a),right,121649;121828;77396;28342;69538;81429;56646;101217;137562;111976;138505;29999;14158;47685;94849;7941,0.0,55.0,
+random 66,cooling (VP3a),left,84617;7941;106956;80272;31319;26973;1684;103176;56646;9863;49007;9969;134041;99364;12572;43496,95.0,0.0,
+random 66,cooling (VP3a),right,84617;7941;106956;80272;31319;26973;1684;103176;56646;9863;49007;9969;134041;99364;12572;43496,0.0,52.5,
+random 67,cooling (VP3a),left,67448;12437;77396;43496;22959;27785;121828;134041;51517;26973;3658;106956;16659;101217;121649;56646,92.5,0.0,
+random 67,cooling (VP3a),right,67448;12437;77396;43496;22959;27785;121828;134041;51517;26973;3658;106956;16659;101217;121649;56646,0.0,55.0,
+random 68,cooling (VP3a),left,80272;90952;94849;69538;51517;85227;11094;67448;114884;106956;77396;26973;47685;87642;99364;12437,95.0,0.0,
+random 68,cooling (VP3a),right,80272;90952;94849;69538;51517;85227;11094;67448;114884;106956;77396;26973;47685;87642;99364;12437,0.0,52.5,
+random 69,cooling (VP3a),left,3658;19628;56646;78964;103176;47685;121828;80272;94849;86688;11094;86007;28342;114884;44553;16659,85.0,0.0,
+random 69,cooling (VP3a),right,3658;19628;56646;78964;103176;47685;121828;80272;94849;86688;11094;86007;28342;114884;44553;16659,0.0,55.0,
+random 70,cooling (VP3a),left,3658;18793;124499;44553;121828;12572;101217;81429;94849;86007;85227;78964;22959;138505;26973;134041,92.5,0.0,
+random 70,cooling (VP3a),right,3658;18793;124499;44553;121828;12572;101217;81429;94849;86007;85227;78964;22959;138505;26973;134041,0.0,55.0,
+random 71,cooling (VP3a),left,12572;121649;16659;49007;11164;43496;106956;28342;77396;124499;12437;84617;31319;94849;47685;26973,92.5,0.0,
+random 71,cooling (VP3a),right,12572;121649;16659;49007;11164;43496;106956;28342;77396;124499;12437;84617;31319;94849;47685;26973,0.0,55.0,
+random 72,cooling (VP3a),left,29999;1684;137562;19628;83777;47685;101217;106956;56646;28342;124499;138505;134041;67448;11094;87642,92.5,0.0,
+random 72,cooling (VP3a),right,29999;1684;137562;19628;83777;47685;101217;106956;56646;28342;124499;138505;134041;67448;11094;87642,0.0,55.0,
+random 73,cooling (VP3a),left,19628;11094;106956;87642;11164;59753;137562;14158;69538;88511;18793;12437;114884;49007;81429;51517,95.0,0.0,
+random 73,cooling (VP3a),right,19628;11094;106956;87642;11164;59753;137562;14158;69538;88511;18793;12437;114884;49007;81429;51517,0.0,52.5,
+random 74,cooling (VP3a),left,14158;49007;121649;28342;81429;8334;22959;67448;18793;137562;114884;59753;3658;103176;99364;44553,95.0,0.0,
+random 74,cooling (VP3a),right,14158;49007;121649;28342;81429;8334;22959;67448;18793;137562;114884;59753;3658;103176;99364;44553,0.0,55.0,
+random 75,cooling (VP3a),left,9969;83777;56646;80272;99364;124499;121649;49007;69538;47685;14158;1684;86007;101217;86688;59753,92.5,0.0,
+random 75,cooling (VP3a),right,9969;83777;56646;80272;99364;124499;121649;49007;69538;47685;14158;1684;86007;101217;86688;59753,0.0,55.0,
+random 76,cooling (VP3a),left,29999;8334;90952;88511;19628;86688;15754;12437;67448;22959;26973;47685;121649;28342;44553;138505,95.0,0.0,
+random 76,cooling (VP3a),right,29999;8334;90952;88511;19628;86688;15754;12437;67448;22959;26973;47685;121649;28342;44553;138505,0.0,55.0,
+random 77,cooling (VP3a),left,30341;80272;44553;59753;69538;15754;1684;138505;9969;26973;111976;31319;124499;11094;121828;11164,92.5,0.0,
+random 77,cooling (VP3a),right,30341;80272;44553;59753;69538;15754;1684;138505;9969;26973;111976;31319;124499;11094;121828;11164,0.0,55.0,
+random 78,cooling (VP3a),left,114884;18793;78964;86688;28297;14158;56646;1684;88511;12437;44553;28342;19628;7941;26973;9863,90.0,0.0,
+random 78,cooling (VP3a),right,114884;18793;78964;86688;28297;14158;56646;1684;88511;12437;44553;28342;19628;7941;26973;9863,0.0,55.0,
+random 79,cooling (VP3a),left,7941;106956;80272;99364;22959;26973;137562;86688;121828;27785;56646;1684;101217;138505;19628;16659,92.5,0.0,
+random 79,cooling (VP3a),right,7941;106956;80272;99364;22959;26973;137562;86688;121828;27785;56646;1684;101217;138505;19628;16659,0.0,55.0,
+random 80,cooling (VP3a),left,27785;28342;12572;81429;138505;19628;103176;124499;49007;7941;134041;67448;44553;28297;15754;9863,92.5,0.0,
+random 80,cooling (VP3a),right,27785;28342;12572;81429;138505;19628;103176;124499;49007;7941;134041;67448;44553;28297;15754;9863,0.0,55.0,
+random 81,cooling (VP3a),left,27785;3658;51517;86007;88511;111976;8334;69538;101217;80272;7941;11164;30341;14158;121828;137562,97.5,0.0,
+random 81,cooling (VP3a),right,27785;3658;51517;86007;88511;111976;8334;69538;101217;80272;7941;11164;30341;14158;121828;137562,0.0,52.5,
+random 82,cooling (VP3a),left,56646;47685;1684;86688;16659;83777;87642;121828;15754;43496;94849;78964;114884;18793;27785;14158,95.0,0.0,
+random 82,cooling (VP3a),right,56646;47685;1684;86688;16659;83777;87642;121828;15754;43496;94849;78964;114884;18793;27785;14158,0.0,55.0,
+random 83,cooling (VP3a),left,81429;43496;12437;19628;90952;69538;103176;94849;67448;26973;30341;11094;137562;86007;44553;28297,90.0,0.0,
+random 83,cooling (VP3a),right,81429;43496;12437;19628;90952;69538;103176;94849;67448;26973;30341;11094;137562;86007;44553;28297,0.0,52.5,
+random 84,cooling (VP3a),left,16659;88511;26973;44553;124499;14158;86688;12572;7941;11094;138505;69538;87642;30341;111976;8334,95.0,0.0,
+random 84,cooling (VP3a),right,16659;88511;26973;44553;124499;14158;86688;12572;7941;11094;138505;69538;87642;30341;111976;8334,0.0,55.0,
+random 85,cooling (VP3a),left,44553;14158;43496;86688;137562;106956;47685;121649;7941;83777;103176;27785;28297;26973;99364;69538,90.0,0.0,
+random 85,cooling (VP3a),right,44553;14158;43496;86688;137562;106956;47685;121649;7941;83777;103176;27785;28297;26973;99364;69538,0.0,52.5,
+random 86,cooling (VP3a),left,26973;14158;85227;80272;12437;124499;31319;18793;3658;138505;99364;87642;7941;51517;43496;69538,92.5,0.0,
+random 86,cooling (VP3a),right,26973;14158;85227;80272;12437;124499;31319;18793;3658;138505;99364;87642;7941;51517;43496;69538,0.0,52.5,
+random 87,cooling (VP3a),left,99364;87642;77396;78964;80272;49007;9969;81429;16659;86007;44553;124499;30341;28297;56646;11164,90.0,0.0,
+random 87,cooling (VP3a),right,99364;87642;77396;78964;80272;49007;9969;81429;16659;86007;44553;124499;30341;28297;56646;11164,0.0,52.5,
+random 88,cooling (VP3a),left,49007;85227;27785;101217;11094;106956;12437;87642;78964;16659;88511;114884;121649;12572;3658;30341,97.5,0.0,
+random 88,cooling (VP3a),right,49007;85227;27785;101217;11094;106956;12437;87642;78964;16659;88511;114884;121649;12572;3658;30341,0.0,52.5,
+random 89,cooling (VP3a),left,9969;29999;137562;44553;99364;106956;78964;67448;114884;88511;121649;27785;94849;80272;77396;28342,92.5,0.0,
+random 89,cooling (VP3a),right,9969;29999;137562;44553;99364;106956;78964;67448;114884;88511;121649;27785;94849;80272;77396;28342,0.0,52.5,
+random 90,cooling (VP3a),left,15754;19628;11094;11164;16659;29999;103176;3658;77396;18793;121828;138505;28297;78964;85227;111976,92.5,0.0,
+random 90,cooling (VP3a),right,15754;19628;11094;11164;16659;29999;103176;3658;77396;18793;121828;138505;28297;78964;85227;111976,0.0,55.0,
+random 91,cooling (VP3a),left,138505;124499;77396;67448;47685;22959;121828;9863;49007;44553;81429;99364;84617;85227;11164;31319,95.0,0.0,
+random 91,cooling (VP3a),right,138505;124499;77396;67448;47685;22959;121828;9863;49007;44553;81429;99364;84617;85227;11164;31319,0.0,52.5,
+random 92,cooling (VP3a),left,138505;11094;30341;12437;86688;85227;29999;44553;78964;86007;51517;28297;124499;134041;90952;121649,92.5,0.0,
+random 92,cooling (VP3a),right,138505;11094;30341;12437;86688;85227;29999;44553;78964;86007;51517;28297;124499;134041;90952;121649,0.0,52.5,
+random 93,cooling (VP3a),left,138505;15754;18793;11094;80272;3658;9863;83777;84617;88511;86688;16659;99364;49007;7941;29999,92.5,0.0,
+random 93,cooling (VP3a),right,138505;15754;18793;11094;80272;3658;9863;83777;84617;88511;86688;16659;99364;49007;7941;29999,0.0,52.5,
+random 94,cooling (VP3a),left,22959;78964;111976;67448;87642;90952;59753;29999;7941;106956;124499;8334;15754;3658;49007;12437,95.0,0.0,
+random 94,cooling (VP3a),right,22959;78964;111976;67448;87642;90952;59753;29999;7941;106956;124499;8334;15754;3658;49007;12437,0.0,52.5,
+random 95,cooling (VP3a),left,77396;19628;51517;124499;114884;12572;78964;28342;88511;134041;22959;16659;11164;90952;137562;111976,92.5,0.0,
+random 95,cooling (VP3a),right,77396;19628;51517;124499;114884;12572;78964;28342;88511;134041;22959;16659;11164;90952;137562;111976,0.0,55.0,
+random 96,cooling (VP3a),left,101217;87642;28297;22959;12437;49007;80272;12572;137562;29999;51517;18793;44553;3658;19628;11094,97.5,0.0,
+random 96,cooling (VP3a),right,101217;87642;28297;22959;12437;49007;80272;12572;137562;29999;51517;18793;44553;3658;19628;11094,0.0,52.5,
+random 97,cooling (VP3a),left,88511;101217;90952;138505;69538;31319;94849;86688;85227;59753;44553;12437;9863;30341;56646;78964,92.5,0.0,
+random 97,cooling (VP3a),right,88511;101217;90952;138505;69538;31319;94849;86688;85227;59753;44553;12437;9863;30341;56646;78964,0.0,55.0,
+random 98,cooling (VP3a),left,28342;18793;137562;101217;94849;56646;86007;12572;14158;12437;8334;85227;11164;84617;47685;114884,95.0,0.0,
+random 98,cooling (VP3a),right,28342;18793;137562;101217;94849;56646;86007;12572;14158;12437;8334;85227;11164;84617;47685;114884,0.0,52.5,
+random 99,cooling (VP3a),left,15754;18793;44553;43496;30341;19628;49007;121649;29999;3658;138505;9969;1684;12437;28297;28342,90.0,0.0,
+random 99,cooling (VP3a),right,15754;18793;44553;43496;30341;19628;49007;121649;29999;3658;138505;9969;1684;12437;28297;28342,0.0,55.0,
+random 0,heating (VP2),left,109935;99782;12845;3405;8898;105420;133338;81429;67725;133589;668;71754;134364;34713;126585;1670,75.0,0.0,
+random 0,heating (VP2),right,109935;99782;12845;3405;8898;105420;133338;81429;67725;133589;668;71754;134364;34713;126585;1670,0.0,55.0,
+random 1,heating (VP2),left,43121;47213;108631;19503;22100;83934;115366;68788;121828;101220;54428;102574;78311;45715;70068;133172,75.0,0.0,
+random 1,heating (VP2),right,43121;47213;108631;19503;22100;83934;115366;68788;121828;101220;54428;102574;78311;45715;70068;133172,0.0,67.5,
+random 2,heating (VP2),left,123636;47058;15462;24753;12120;34673;121828;126426;126419;37128;114073;138329;108631;28268;78527;39328,80.0,0.0,
+random 2,heating (VP2),right,123636;47058;15462;24753;12120;34673;121828;126426;126419;37128;114073;138329;108631;28268;78527;39328,10.0,95.0,
+random 3,heating (VP2),left,82091;138329;39398;28959;113215;102249;93701;96457;130068;39927;83271;109935;81429;83934;54514;37365,77.5,0.0,
+random 3,heating (VP2),right,82091;138329;39398;28959;113215;102249;93701;96457;130068;39927;83271;109935;81429;83934;54514;37365,0.0,60.0,
+random 4,heating (VP2),left,121828;116961;53582;78527;134364;98064;98857;39328;23842;15754;35791;122100;42029;62586;107771;94794,72.5,0.0,
+random 4,heating (VP2),right,121828;116961;53582;78527;134364;98064;98857;39328;23842;15754;35791;122100;42029;62586;107771;94794,0.0,80.0,
+random 5,heating (VP2),left,130549;78975;85227;103178;36506;36061;40962;103559;89074;48605;91304;48912;68788;56777;15799;77746,87.5,0.0,
+random 5,heating (VP2),right,130549;78975;85227;103178;36506;36061;40962;103559;89074;48605;91304;48912;68788;56777;15799;77746,0.0,20.0,
+random 6,heating (VP2),left,81321;59988;6626;63536;24753;48912;23215;113509;62192;38441;44184;21291;29603;8898;52870;126123,70.0,0.0,
+random 6,heating (VP2),right,81321;59988;6626;63536;24753;48912;23215;113509;62192;38441;44184;21291;29603;8898;52870;126123,0.0,50.0,
+random 7,heating (VP2),left,42347;70068;28268;130032;30071;77147;58097;85833;65962;23440;34713;60863;8898;6626;39328;23215,72.5,0.0,
+random 7,heating (VP2),right,42347;70068;28268;130032;30071;77147;58097;85833;65962;23440;34713;60863;8898;6626;39328;23215,20.0,82.5,
+random 8,heating (VP2),left,89212;65962;80187;48912;115869;31007;84472;39398;56777;71754;53008;110077;36669;131951;48838;119121,72.5,0.0,
+random 8,heating (VP2),right,89212;65962;80187;48912;115869;31007;84472;39398;56777;71754;53008;110077;36669;131951;48838;119121,0.0,60.0,
+random 9,heating (VP2),left,96457;29777;94794;84472;54428;123636;113029;91277;34673;91304;30071;130068;8014;107109;11164;40577,77.5,0.0,
+random 9,heating (VP2),right,96457;29777;94794;84472;54428;123636;113029;91277;34673;91304;30071;130068;8014;107109;11164;40577,0.0,60.0,
+random 10,heating (VP2),left,23440;85227;34713;78161;60672;30887;103173;85833;15462;52068;120041;91277;134364;77746;48912;125189,87.5,0.0,
+random 10,heating (VP2),right,23440;85227;34713;78161;60672;30887;103173;85833;15462;52068;120041;91277;134364;77746;48912;125189,20.0,77.5,
+random 11,heating (VP2),left,126419;96018;40577;1291;69523;93550;28487;20080;6128;118504;47213;26197;119121;49007;89212;94379,82.5,0.0,
+random 11,heating (VP2),right,126419;96018;40577;1291;69523;93550;28487;20080;6128;118504;47213;26197;119121;49007;89212;94379,12.5,75.0,
+random 12,heating (VP2),left,102249;53008;109826;48605;42005;19166;21331;14649;130032;121926;1233;98974;3405;54514;63536;118504,75.0,0.0,
+random 12,heating (VP2),right,102249;53008;109826;48605;42005;19166;21331;14649;130032;121926;1233;98974;3405;54514;63536;118504,17.5,75.0,
+random 13,heating (VP2),left,81146;19628;70420;2860;122891;24753;91505;12120;42233;62192;39328;27456;96018;94443;12845;102249,77.5,0.0,
+random 13,heating (VP2),right,81146;19628;70420;2860;122891;24753;91505;12120;42233;62192;39328;27456;96018;94443;12845;102249,0.0,55.0,
+random 14,heating (VP2),left,42005;10346;11242;91277;77147;11164;78975;62790;44064;98064;76889;472;37128;14082;1670;6161,72.5,0.0,
+random 14,heating (VP2),right,42005;10346;11242;91277;77147;11164;78975;62790;44064;98064;76889;472;37128;14082;1670;6161,0.0,57.5,
+random 15,heating (VP2),left,37365;62790;41693;112796;42347;26973;82062;85227;45653;38927;40881;42029;15462;63950;92649;1233,47.5,0.0,
+random 15,heating (VP2),right,37365;62790;41693;112796;42347;26973;82062;85227;45653;38927;40881;42029;15462;63950;92649;1233,15.0,75.0,
+random 16,heating (VP2),left,119121;78527;87651;42543;1291;19503;67725;16225;12120;7178;34167;52068;20540;129322;84472;138329,77.5,0.0,
+random 16,heating (VP2),right,119121;78527;87651;42543;1291;19503;67725;16225;12120;7178;34167;52068;20540;129322;84472;138329,15.0,80.0,
+random 17,heating (VP2),left,29939;68400;117059;92681;31007;77806;52420;121926;91505;119740;113509;88224;46088;69919;125165;1291,77.5,0.0,
+random 17,heating (VP2),right,29939;68400;117059;92681;31007;77806;52420;121926;91505;119740;113509;88224;46088;69919;125165;1291,15.0,80.0,
+random 18,heating (VP2),left,26197;70420;50424;125271;29603;5565;120041;15977;121926;133338;45715;110077;92427;19166;21535;7178,77.5,0.0,
+random 18,heating (VP2),right,26197;70420;50424;125271;29603;5565;120041;15977;121926;133338;45715;110077;92427;19166;21535;7178,17.5,77.5,
+random 19,heating (VP2),left,23215;8014;77396;99782;118523;24753;88224;58832;96854;69523;81321;110077;46088;28342;49007;106029,90.0,0.0,
+random 19,heating (VP2),right,23215;8014;77396;99782;118523;24753;88224;58832;96854;69523;81321;110077;46088;28342;49007;106029,0.0,72.5,
+random 20,heating (VP2),left,8014;136251;94122;37128;19503;98245;51555;31988;75855;48838;37365;23844;6128;26973;42233;93983,70.0,0.0,
+random 20,heating (VP2),right,8014;136251;94122;37128;19503;98245;51555;31988;75855;48838;37365;23844;6128;26973;42233;93983,15.0,80.0,
+random 21,heating (VP2),left,50739;61685;91277;28528;77147;8054;29777;126585;103559;86007;138329;51562;29232;98466;133589;96018,17.5,0.0,
+random 21,heating (VP2),right,50739;61685;91277;28528;77147;8054;29777;126585;103559;86007;138329;51562;29232;98466;133589;96018,0.0,17.5,
+random 22,heating (VP2),left,5054;23844;75855;17311;58415;1670;94350;62586;15977;91304;113509;9504;98423;96176;2994;46088,72.5,0.0,
+random 22,heating (VP2),right,5054;23844;75855;17311;58415;1670;94350;62586;15977;91304;113509;9504;98423;96176;2994;46088,0.0,52.5,
+random 23,heating (VP2),left,15977;107771;5565;48572;53582;43121;130032;59988;5794;120357;78527;117257;55361;6626;98974;12120,77.5,0.0,
+random 23,heating (VP2),right,15977;107771;5565;48572;53582;43121;130032;59988;5794;120357;78527;117257;55361;6626;98974;12120,0.0,27.5,
+random 24,heating (VP2),left,123896;34713;119740;8193;130549;138544;19628;62029;88224;59988;114374;30071;45143;17311;77396;131099,75.0,0.0,
+random 24,heating (VP2),right,123896;34713;119740;8193;130549;138544;19628;62029;88224;59988;114374;30071;45143;17311;77396;131099,0.0,60.0,
+random 25,heating (VP2),left,48912;99782;10346;42029;40577;95822;11242;96457;126398;67620;98245;96018;108631;49007;115699;26973,82.5,0.0,
+random 25,heating (VP2),right,48912;99782;10346;42029;40577;95822;11242;96457;126398;67620;98245;96018;108631;49007;115699;26973,0.0,60.0,
+random 26,heating (VP2),left,9333;107109;125271;18131;37365;19257;35981;80380;123036;116906;2994;98064;42029;36669;10080;12120,70.0,0.0,
+random 26,heating (VP2),right,9333;107109;125271;18131;37365;19257;35981;80380;123036;116906;2994;98064;42029;36669;10080;12120,0.0,62.5,
+random 27,heating (VP2),left,107771;86657;47046;29603;83834;1670;82091;31007;45653;113509;93701;29777;21673;48838;58415;68400,75.0,0.0,
+random 27,heating (VP2),right,107771;86657;47046;29603;83834;1670;82091;31007;45653;113509;93701;29777;21673;48838;58415;68400,0.0,57.5,
+random 28,heating (VP2),left,119121;7178;19628;472;52870;78527;135472;77147;38927;8193;22266;44184;28259;129322;65955;115869,72.5,0.0,
+random 28,heating (VP2),right,119121;7178;19628;472;52870;78527;135472;77147;38927;8193;22266;44184;28259;129322;65955;115869,0.0,55.0,
+random 29,heating (VP2),left,78311;44184;131099;14082;85227;29863;88522;45143;39398;125852;25945;103178;84617;102724;126419;120904,87.5,0.0,
+random 29,heating (VP2),right,78311;44184;131099;14082;85227;29863;88522;45143;39398;125852;25945;103178;84617;102724;126419;120904,17.5,82.5,
+random 30,heating (VP2),left,8193;10891;91277;96854;109826;125165;115869;42233;67725;48835;130068;19503;30887;28155;52420;42035,77.5,0.0,
+random 30,heating (VP2),right,8193;10891;91277;96854;109826;125165;115869;42233;67725;48835;130068;19503;30887;28155;52420;42035,0.0,60.0,
+random 31,heating (VP2),left,80272;26197;81459;89212;87673;125852;122891;51024;66254;96176;27456;138329;1233;65955;67568;115366,75.0,0.0,
+random 31,heating (VP2),right,80272;26197;81459;89212;87673;125852;122891;51024;66254;96176;27456;138329;1233;65955;67568;115366,0.0,57.5,
+random 32,heating (VP2),left,125221;86580;88522;124648;19503;47058;115974;88224;42964;28342;102724;29310;19166;41630;48572;668,80.0,0.0,
+random 32,heating (VP2),right,125221;86580;88522;124648;19503;47058;115974;88224;42964;28342;102724;29310;19166;41630;48572;668,0.0,67.5,
+random 33,heating (VP2),left,115974;35080;29939;99782;40577;10080;97915;38927;120357;56698;94379;2472;47133;59988;52068;138544,75.0,0.0,
+random 33,heating (VP2),right,115974;35080;29939;99782;40577;10080;97915;38927;120357;56698;94379;2472;47133;59988;52068;138544,17.5,82.5,
+random 34,heating (VP2),left,61297;40962;20540;75431;94741;107109;94379;103173;69523;33104;53582;127050;8193;125221;98974;39397,70.0,0.0,
+random 34,heating (VP2),right,61297;40962;20540;75431;94741;107109;94379;103173;69523;33104;53582;127050;8193;125221;98974;39397,0.0,60.0,
+random 35,heating (VP2),left,54428;8054;37457;120609;36506;41630;24792;115366;87651;24753;34167;50424;112796;29863;94741;123896,75.0,0.0,
+random 35,heating (VP2),right,54428;8054;37457;120609;36506;41630;24792;115366;87651;24753;34167;50424;112796;29863;94741;123896,0.0,57.5,
+random 36,heating (VP2),left,39397;46944;42584;42035;52068;65955;114073;18131;53912;12623;34167;50739;94849;113509;96176;85833,77.5,0.0,
+random 36,heating (VP2),right,39397;46944;42584;42035;52068;65955;114073;18131;53912;12623;34167;50739;94849;113509;96176;85833,0.0,57.5,
+random 37,heating (VP2),left,98857;23842;42035;42925;28959;78527;53582;24926;19628;138329;93983;126398;6632;94379;92427;46088,77.5,0.0,
+random 37,heating (VP2),right,98857;23842;42035;42925;28959;78527;53582;24926;19628;138329;93983;126398;6632;94379;92427;46088,17.5,80.0,
+random 38,heating (VP2),left,46088;41881;69523;35814;125271;49007;92649;7345;48835;92427;91277;14158;35080;18131;107611;103178,87.5,0.0,
+random 38,heating (VP2),right,46088;41881;69523;35814;125271;49007;92649;7345;48835;92427;91277;14158;35080;18131;107611;103178,20.0,82.5,
+random 39,heating (VP2),left,20540;48605;75855;28959;80187;101223;23615;94379;41056;46944;94122;124648;39397;32867;668;102574,72.5,0.0,
+random 39,heating (VP2),right,20540;48605;75855;28959;80187;101223;23615;94379;41056;46944;94122;124648;39397;32867;668;102574,15.0,77.5,
+random 40,heating (VP2),left,41693;6161;70420;88522;102724;5565;5794;9504;75855;130549;133589;118504;37128;67568;17311;52068,82.5,0.0,
+random 40,heating (VP2),right,41693;6161;70420;88522;102724;5565;5794;9504;75855;130549;133589;118504;37128;67568;17311;52068,0.0,27.5,
+random 41,heating (VP2),left,96854;36061;92649;120609;77207;92516;39328;117969;60672;6832;1670;125875;51562;24926;472;39398,70.0,0.0,
+random 41,heating (VP2),right,96854;36061;92649;120609;77207;92516;39328;117969;60672;6832;1670;125875;51562;24926;472;39398,0.0,57.5,
+random 42,heating (VP2),left,107771;95822;8054;62192;78161;41056;113509;103178;1291;65955;92681;81321;86657;102676;28915;41881,77.5,0.0,
+random 42,heating (VP2),right,107771;95822;8054;62192;78161;41056;113509;103178;1291;65955;92681;81321;86657;102676;28915;41881,17.5,70.0,
+random 43,heating (VP2),left,29777;121926;96018;93550;15799;14158;60863;7941;103178;19600;61685;29310;23215;86657;89074;78161,17.5,0.0,
+random 43,heating (VP2),right,29777;121926;96018;93550;15799;14158;60863;7941;103178;19600;61685;29310;23215;86657;89074;78161,0.0,55.0,
+random 44,heating (VP2),left,66210;22100;77147;67725;43121;28528;109569;1291;36949;125852;114073;34673;2994;32867;107109;63950,70.0,0.0,
+random 44,heating (VP2),right,66210;22100;77147;67725;43121;28528;109569;1291;36949;125852;114073;34673;2994;32867;107109;63950,0.0,57.5,
+random 45,heating (VP2),left,23842;29999;68400;120609;73505;123636;58129;48572;41881;104123;101223;109826;26197;126419;130068;40881,47.5,0.0,
+random 45,heating (VP2),right,23842;29999;68400;120609;73505;123636;58129;48572;41881;104123;101223;109826;26197;126419;130068;40881,15.0,85.0,
+random 46,heating (VP2),left,46944;102724;1233;96018;28959;12623;81321;98974;36647;1670;85555;14158;105420;102676;52870;48572,67.5,0.0,
+random 46,heating (VP2),right,46944;102724;1233;96018;28959;12623;81321;98974;36647;1670;85555;14158;105420;102676;52870;48572,0.0,55.0,
+random 47,heating (VP2),left,96457;72502;53008;668;2994;94350;123066;34713;122104;107109;76889;62586;88224;94379;22097;131099,75.0,0.0,
+random 47,heating (VP2),right,96457;72502;53008;668;2994;94350;123066;34713;122104;107109;76889;62586;88224;94379;22097;131099,0.0,60.0,
+random 48,heating (VP2),left,30887;115974;6832;93550;113509;85833;85698;83834;9333;8193;37457;47213;50739;25529;82062;6632,67.5,0.0,
+random 48,heating (VP2),right,30887;115974;6832;93550;113509;85833;85698;83834;9333;8193;37457;47213;50739;25529;82062;6632,0.0,55.0,
+random 49,heating (VP2),left,88224;11164;21535;93983;42005;33912;53090;93701;5565;46088;84472;94350;71754;78267;98974;124648,77.5,0.0,
+random 49,heating (VP2),right,88224;11164;21535;93983;42005;33912;53090;93701;5565;46088;84472;94350;71754;78267;98974;124648,17.5,82.5,
+random 50,heating (VP2),left,102724;21291;83271;113215;124648;98423;21673;23440;106029;21139;61685;104659;29863;40881;22266;113894,0.0,0.0,
+random 50,heating (VP2),right,102724;21291;83271;113215;124648;98423;21673;23440;106029;21139;61685;104659;29863;40881;22266;113894,17.5,82.5,
+random 51,heating (VP2),left,50424;19600;41630;51562;10080;126419;19628;34713;24979;6128;94849;125271;98466;6632;125189;96176,77.5,0.0,
+random 51,heating (VP2),right,50424;19600;41630;51562;10080;126419;19628;34713;24979;6128;94849;125271;98466;6632;125189;96176,0.0,57.5,
+random 52,heating (VP2),left,130549;60863;102676;123036;31988;83834;19503;34167;85698;138544;58415;86657;116961;19611;117059;110077,75.0,0.0,
+random 52,heating (VP2),right,130549;60863;102676;123036;31988;83834;19503;34167;85698;138544;58415;86657;116961;19611;117059;110077,0.0,60.0,
+random 53,heating (VP2),left,23844;12120;24753;78706;96176;101221;113215;19611;86007;77147;45653;5054;120041;117059;138329;91304,72.5,0.0,
+random 53,heating (VP2),right,23844;12120;24753;78706;96176;101221;113215;19611;86007;77147;45653;5054;120041;117059;138329;91304,0.0,65.0,
+random 54,heating (VP2),left,52068;21291;118523;10346;88224;124648;81429;104030;125331;70420;40962;78161;101220;83934;76889;60954,77.5,0.0,
+random 54,heating (VP2),right,52068;21291;118523;10346;88224;124648;81429;104030;125331;70420;40962;78161;101220;83934;76889;60954,0.0,55.0,
+random 55,heating (VP2),left,34713;31319;37365;122891;20080;58146;81005;86657;94379;126399;48912;77147;78161;102676;74473;78975,67.5,0.0,
+random 55,heating (VP2),right,34713;31319;37365;122891;20080;58146;81005;86657;94379;126399;48912;77147;78161;102676;74473;78975,0.0,60.0,
+random 56,heating (VP2),left,119121;85555;34713;19600;22100;53090;10346;91505;78706;47046;130549;91304;6161;53912;76889;62029,75.0,0.0,
+random 56,heating (VP2),right,119121;85555;34713;19600;22100;53090;10346;91505;78706;47046;130549;91304;6161;53912;76889;62029,0.0,62.5,
+random 57,heating (VP2),left,113215;63950;116961;28528;29232;61297;117257;41881;118523;28268;8054;101221;89212;7178;92681;88522,77.5,0.0,
+random 57,heating (VP2),right,113215;63950;116961;28528;29232;61297;117257;41881;118523;28268;8054;101221;89212;7178;92681;88522,15.0,82.5,
+random 58,heating (VP2),left,23844;115699;104123;78161;28259;135472;136251;62192;89212;62170;113894;70068;75855;116843;30071;53912,75.0,0.0,
+random 58,heating (VP2),right,23844;115699;104123;78161;28259;135472;136251;62192;89212;62170;113894;70068;75855;116843;30071;53912,17.5,77.5,
+random 59,heating (VP2),left,55361;15977;29603;41630;23842;25529;102724;123184;21291;23844;131951;37365;42029;102574;130898;96403,77.5,0.0,
+random 59,heating (VP2),right,55361;15977;29603;41630;23842;25529;102724;123184;21291;23844;131951;37365;42029;102574;130898;96403,0.0,65.0,
+random 60,heating (VP2),left,28155;60672;93701;8014;118544;76889;5794;28528;125221;42005;122891;85698;28487;14082;45143;97915,72.5,0.0,
+random 60,heating (VP2),right,28155;60672;93701;8014;118544;76889;5794;28528;125221;42005;122891;85698;28487;14082;45143;97915,0.0,27.5,
+random 61,heating (VP2),left,125221;78267;34673;69919;10891;108631;109569;45131;42029;31319;109935;58415;115699;70420;51555;42925,72.5,0.0,
+random 61,heating (VP2),right,125221;78267;34673;69919;10891;108631;109569;45131;42029;31319;109935;58415;115699;70420;51555;42925,0.0,55.0,
+random 62,heating (VP2),left,126419;19628;44184;81146;98466;111976;35080;35791;115974;19600;60954;114374;41630;9366;42005;47213,72.5,0.0,
+random 62,heating (VP2),right,126419;19628;44184;81146;98466;111976;35080;35791;115974;19600;60954;114374;41630;9366;42005;47213,0.0,62.5,
+random 63,heating (VP2),left,472;123066;25945;102249;108631;76889;104123;82062;42925;35791;130549;117059;115974;48572;24979;129322,75.0,0.0,
+random 63,heating (VP2),right,472;123066;25945;102249;108631;76889;104123;82062;42925;35791;130549;117059;115974;48572;24979;129322,0.0,62.5,
+random 64,heating (VP2),left,42005;104659;135472;63950;56777;74473;23615;39397;97451;116937;69523;91304;107611;40577;63536;29232,75.0,0.0,
+random 64,heating (VP2),right,42005;104659;135472;63950;56777;74473;23615;39397;97451;116937;69523;91304;107611;40577;63536;29232,0.0,57.5,
+random 65,heating (VP2),left,62170;12120;38927;67620;67568;98245;59881;50739;123066;93983;23215;19600;73133;112796;28915;86657,77.5,0.0,
+random 65,heating (VP2),right,62170;12120;38927;67620;67568;98245;59881;50739;123066;93983;23215;19600;73133;112796;28915;86657,15.0,82.5,
+random 66,heating (VP2),left,69523;120609;82091;60863;138544;104030;9504;67568;115366;58097;115699;10891;70068;103178;55361;25529,72.5,0.0,
+random 66,heating (VP2),right,69523;120609;82091;60863;138544;104030;9504;67568;115366;58097;115699;10891;70068;103178;55361;25529,0.0,57.5,
+random 67,heating (VP2),left,77207;39397;21331;96018;56698;120904;9366;120041;87651;48838;44064;5054;472;103559;119121;83271,75.0,0.0,
+random 67,heating (VP2),right,77207;39397;21331;96018;56698;120904;9366;120041;87651;48838;44064;5054;472;103559;119121;83271,0.0,17.5,
+random 68,heating (VP2),left,84617;10080;91505;34713;98466;130068;77396;96854;78706;8014;1670;12120;40577;12845;133338;112796,77.5,0.0,
+random 68,heating (VP2),right,84617;10080;91505;34713;98466;130068;77396;96854;78706;8014;1670;12120;40577;12845;133338;112796,0.0,60.0,
+random 69,heating (VP2),left,89584;13536;94443;21291;115974;10183;95347;30887;123066;123184;133589;122104;83834;29863;23215;123036,75.0,0.0,
+random 69,heating (VP2),right,89584;13536;94443;21291;115974;10183;95347;30887;123066;123184;133589;122104;83834;29863;23215;123036,0.0,60.0,
+random 70,heating (VP2),left,38441;98857;138544;29232;96176;93550;45131;19503;24753;96194;78975;53912;77147;70420;37457;29999,75.0,0.0,
+random 70,heating (VP2),right,38441;98857;138544;29232;96176;93550;45131;19503;24753;96194;78975;53912;77147;70420;37457;29999,17.5,85.0,
+random 71,heating (VP2),left,23440;52420;70068;12639;81146;41630;7178;112796;29999;115869;102574;54428;97451;68400;3405;46944,77.5,0.0,
+random 71,heating (VP2),right,23440;52420;70068;12639;81146;41630;7178;112796;29999;115869;102574;54428;97451;68400;3405;46944,17.5,82.5,
+random 72,heating (VP2),left,8054;10080;93555;16225;77396;22100;136251;89212;94350;78267;19600;27456;94794;122104;31007;126123,72.5,0.0,
+random 72,heating (VP2),right,8054;10080;93555;16225;77396;22100;136251;89212;94350;78267;19600;27456;94794;122104;31007;126123,0.0,60.0,
+random 73,heating (VP2),left,23186;12639;24753;23844;71754;28268;122891;93555;42005;19257;130898;126399;98245;14082;28259;11242,75.0,0.0,
+random 73,heating (VP2),right,23186;12639;24753;23844;71754;28268;122891;93555;42005;19257;130898;126399;98245;14082;28259;11242,0.0,60.0,
+random 74,heating (VP2),left,12639;101345;5054;29310;28268;131951;78975;20080;138329;18131;46088;133589;96176;92681;34673;118504,77.5,0.0,
+random 74,heating (VP2),right,12639;101345;5054;29310;28268;131951;78975;20080;138329;18131;46088;133589;96176;92681;34673;118504,17.5,80.0,
+random 75,heating (VP2),left,96018;107109;37457;42347;92516;91505;46088;1291;126399;34713;94794;29777;6161;126419;113029;6832,70.0,0.0,
+random 75,heating (VP2),right,96018;107109;37457;42347;92516;91505;46088;1291;126399;34713;94794;29777;6161;126419;113029;6832,0.0,57.5,
+random 76,heating (VP2),left,85698;125852;37128;36647;45653;117257;11164;112796;22266;74473;136251;92427;94741;121926;80272;104123,75.0,0.0,
+random 76,heating (VP2),right,85698;125852;37128;36647;45653;117257;11164;112796;22266;74473;136251;92427;94741;121926;80272;104123,17.5,80.0,
+random 77,heating (VP2),left,94443;28155;95347;9628;119121;72502;26197;62029;70354;34673;101220;35080;75431;19166;134364;92427,75.0,0.0,
+random 77,heating (VP2),right,94443;28155;95347;9628;119121;72502;26197;62029;70354;34673;101220;35080;75431;19166;134364;92427,0.0,57.5,
+random 78,heating (VP2),left,106029;28268;40881;11164;27079;39397;52068;66333;89212;58129;104030;123036;134364;6626;126426;130032,47.5,0.0,
+random 78,heating (VP2),right,106029;28268;40881;11164;27079;39397;52068;66333;89212;58129;104030;123036;134364;6626;126426;130032,0.0,62.5,
+random 79,heating (VP2),left,47058;35981;23215;124648;131099;89212;120041;38441;121926;92649;70354;77746;12120;93555;65955;53912,77.5,0.0,
+random 79,heating (VP2),right,47058;35981;23215;124648;131099;89212;120041;38441;121926;92649;70354;77746;12120;93555;65955;53912,20.0,77.5,
+random 80,heating (VP2),left,62170;115699;51024;73133;23798;35080;98466;52420;119740;21291;40577;115974;9504;6832;22266;41881,77.5,0.0,
+random 80,heating (VP2),right,62170;115699;51024;73133;23798;35080;98466;52420;119740;21291;40577;115974;9504;6832;22266;41881,0.0,57.5,
+random 81,heating (VP2),left,6128;28268;124648;88522;119740;75855;109826;97915;95822;113029;33104;65962;98466;34673;113894;28959,72.5,0.0,
+random 81,heating (VP2),right,6128;28268;124648;88522;119740;75855;109826;97915;95822;113029;33104;65962;98466;34673;113894;28959,0.0,65.0,
+random 82,heating (VP2),left,77147;96854;24926;115447;1205;115974;16225;96176;78706;30071;52068;104030;42543;19611;23842;48835,72.5,0.0,
+random 82,heating (VP2),right,77147;96854;24926;115447;1205;115974;16225;96176;78706;30071;52068;104030;42543;19611;23842;48835,0.0,57.5,
+random 83,heating (VP2),left,35814;120041;119740;106029;108631;52420;86007;8014;42543;114073;136251;102724;130898;20080;39397;48835,77.5,0.0,
+random 83,heating (VP2),right,35814;120041;119740;106029;108631;52420;86007;8014;42543;114073;136251;102724;130898;20080;39397;48835,20.0,82.5,
+random 84,heating (VP2),left,37365;126426;133172;68788;78311;66210;116961;84617;83834;136251;121926;29310;19600;27456;42543;96403,77.5,0.0,
+random 84,heating (VP2),right,37365;126426;133172;68788;78311;66210;116961;84617;83834;136251;121926;29310;19600;27456;42543;96403,0.0,57.5,
+random 85,heating (VP2),left,34713;85833;12639;2860;39328;29777;23842;12623;62029;83834;94794;28155;5794;123184;52870;472,67.5,0.0,
+random 85,heating (VP2),right,34713;85833;12639;2860;39328;29777;23842;12623;62029;83834;94794;28155;5794;123184;52870;472,0.0,27.5,
+random 86,heating (VP2),left,28259;2472;121926;12120;77746;134364;112796;31007;114374;42005;89212;98064;103173;66210;80979;116937,70.0,0.0,
+random 86,heating (VP2),right,28259;2472;121926;12120;77746;134364;112796;31007;114374;42005;89212;98064;103173;66210;80979;116937,17.5,77.5,
+random 87,heating (VP2),left,56777;56698;118504;59978;70420;23615;51562;117969;27079;96176;128756;25529;113894;77147;125189;6632,75.0,0.0,
+random 87,heating (VP2),right,56777;56698;118504;59978;70420;23615;51562;117969;27079;96176;128756;25529;113894;77147;125189;6632,0.0,62.5,
+random 88,heating (VP2),left,36647;47133;93701;67725;23615;28155;28259;62586;116937;12120;30071;6832;78527;118544;133172;125331,75.0,0.0,
+random 88,heating (VP2),right,36647;47133;93701;67725;23615;28155;28259;62586;116937;12120;30071;6832;78527;118544;133172;125331,0.0,67.5,
+random 89,heating (VP2),left,51555;77746;21535;103178;36647;54428;47046;29939;70068;2472;101345;98857;42347;113509;35814;8193,72.5,0.0,
+random 89,heating (VP2),right,51555;77746;21535;103178;36647;54428;47046;29939;70068;2472;101345;98857;42347;113509;35814;8193,17.5,80.0,
+random 90,heating (VP2),left,115974;123184;58146;123636;95101;5794;38441;83934;130549;60863;38927;17311;39927;19600;125165;96176,77.5,0.0,
+random 90,heating (VP2),right,115974;123184;58146;123636;95101;5794;38441;83934;130549;60863;38927;17311;39927;19600;125165;96176,0.0,25.0,
+random 91,heating (VP2),left,80272;81005;85698;3405;138329;76889;15799;54514;94443;40881;1670;109935;28915;65955;73133;56777,45.0,0.0,
+random 91,heating (VP2),right,80272;81005;85698;3405;138329;76889;15799;54514;94443;40881;1670;109935;28915;65955;73133;56777,0.0,52.5,
+random 92,heating (VP2),left,1205;41630;101221;69919;22097;37128;89074;124648;25945;80272;8193;472;68400;44064;28155;5794,70.0,0.0,
+random 92,heating (VP2),right,1205;41630;101221;69919;22097;37128;89074;124648;25945;80272;8193;472;68400;44064;28155;5794,0.0,27.5,
+random 93,heating (VP2),left,42029;86007;131951;42925;3405;31988;109935;21331;99782;104030;89212;126426;126399;67725;126123;81459,70.0,0.0,
+random 93,heating (VP2),right,42029;86007;131951;42925;3405;31988;109935;21331;99782;104030;89212;126426;126399;67725;126123;81459,0.0,60.0,
+random 94,heating (VP2),left,67620;118544;126123;96403;39328;10080;120609;101345;102724;42005;11242;6128;42035;131099;138329;50739,75.0,0.0,
+random 94,heating (VP2),right,67620;118544;126123;96403;39328;10080;120609;101345;102724;42005;11242;6128;42035;131099;138329;50739,0.0,60.0,
+random 95,heating (VP2),left,94794;54428;21139;48912;134364;96018;12639;77207;123184;104659;9504;101221;125852;121828;31988;24792,77.5,0.0,
+random 95,heating (VP2),right,94794;54428;21139;48912;134364;96018;12639;77207;123184;104659;9504;101221;125852;121828;31988;24792,15.0,92.5,
+random 96,heating (VP2),left,36949;10891;15799;25945;80272;84472;119740;104030;28342;9628;92681;108631;83834;53090;7941;101223,65.0,0.0,
+random 96,heating (VP2),right,36949;10891;15799;25945;80272;84472;119740;104030;28342;9628;92681;108631;83834;53090;7941;101223,0.0,65.0,
+random 97,heating (VP2),left,29999;5054;70354;24979;125271;99782;77396;26973;14082;48838;89584;111976;29777;126426;53090;134364,75.0,0.0,
+random 97,heating (VP2),right,29999;5054;70354;24979;125271;99782;77396;26973;14082;48838;89584;111976;29777;126426;53090;134364,0.0,60.0,
+random 98,heating (VP2),left,85555;8014;113894;120904;28259;44184;472;39397;133172;107771;28155;7131;22097;125852;106029;68400,77.5,0.0,
+random 98,heating (VP2),right,85555;8014;113894;120904;28259;44184;472;39397;133172;107771;28155;7131;22097;125852;106029;68400,0.0,60.0,
+random 99,heating (VP2),left,81321;94122;70068;114374;107109;94443;48912;36061;43121;53912;91304;86580;85227;38441;58129;40577,85.0,0.0,
+random 99,heating (VP2),right,81321;94122;70068;114374;107109;94443;48912;36061;43121;53912;91304;86580;85227;38441;58129;40577,0.0,60.0,
