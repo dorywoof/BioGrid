@@ -6,6 +6,7 @@
 [![Python](https://img.shields.io/badge/Research-Python-3776AB.svg?logo=python&logoColor=white)]()
 [![C++](https://img.shields.io/badge/Game-C%2B%2B17%20%2F%20SFML-00599C.svg?logo=cplusplus&logoColor=white)]()
 [![License](https://img.shields.io/badge/License-MIT-green.svg)](LICENSE)
+[![XERJ Corpus Hub contributor](https://hub.xerj.org/contributors/dorywoof/badge.svg)](https://hub.xerj.org/contributors/dorywoof)
 
 **BioGrid** asks a simple question of a complete fruit fly brain: *which senses can steer the fly, and through which neurons?*
 
